@@ -457,6 +457,15 @@
     align-items: stretch;
   }
 
+  .events-location-button {
+    width: 100%;
+    max-width: 100%;
+    flex: 0 0 100%;
+    justify-content: space-between;
+    box-sizing: border-box;
+    text-align: left;
+  }
+
   .events-tabs {
     width: 100%;
     justify-content: stretch;

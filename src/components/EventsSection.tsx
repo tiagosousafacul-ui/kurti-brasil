@@ -41,16 +41,13 @@ export const EventsSection: React.FC<EventsSectionProps> = ({
           <strong>{selectedLocation || 'Escolher cidade'}</strong>
         </button>
 
-        <div className="events-tabs" role="tablist" aria-label="Tipo de programação">
+        <div className="events-tabs" role="group" aria-label="Tipo de programação">
           {tabs.map((tab) => (
             <button
               key={tab.id}
               id={`events-tab-${tab.id}`}
               type="button"
-              role="tab"
-              aria-selected={activeTab === tab.id}
-              aria-controls={`events-panel-${tab.id}`}
-              tabIndex={activeTab === tab.id ? 0 : -1}
+              aria-pressed={activeTab === tab.id}
               onClick={() => setActiveTab(tab.id)}
             >
               {tab.label}
@@ -62,9 +59,6 @@ export const EventsSection: React.FC<EventsSectionProps> = ({
       <div
         id={`events-panel-${activeTab}`}
         className="events-content"
-        role="tabpanel"
-        aria-labelledby={`events-tab-${activeTab}`}
-        tabIndex={0}
       >
         {activeTab === 'baladas' && (
           <>

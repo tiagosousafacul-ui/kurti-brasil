@@ -137,7 +137,7 @@ export const MusicPlayerProvider: React.FC<{ children: ReactNode }> = ({ childre
     return INITIAL_YOUTUBE_TRACKS[0];
   });
 
-  const [isPlaying, setIsPlaying] = useState<boolean>(true);
+  const [isPlaying, setIsPlaying] = useState<boolean>(false);
   const [isMiniPlayerOpen, setIsMiniPlayerOpen] = useState<boolean>(() => {
     try {
       const saved = localStorage.getItem('kurti-miniplayer-open');

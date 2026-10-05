@@ -183,7 +183,7 @@
   transition: background-color 160ms ease, color 160ms ease, box-shadow 160ms ease;
 }
 
-.events-tabs button[aria-selected="true"] {
+.events-tabs button[aria-pressed="true"] {
   color: var(--ink);
   background: #fff;
   box-shadow: 0 2px 10px rgba(20, 17, 18, 0.09);

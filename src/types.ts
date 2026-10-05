@@ -51,11 +51,15 @@ export interface CultureGuideItem {
   venue: string;
   price: string;
   note: string;
+  source?: string;
+  sourceUrl?: string;
+  details?: string[];
 }
 
 export interface CultureGuides {
   Cinema: CultureGuideItem[];
   Teatro: CultureGuideItem[];
+  Literatura?: CultureGuideItem[];
 }
 
 export interface Film {

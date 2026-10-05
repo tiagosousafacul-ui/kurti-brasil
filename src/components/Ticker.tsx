@@ -4,8 +4,8 @@ import { usePWAInstall } from '../hooks/usePWAInstall';
 export const Ticker: React.FC = () => {
   return (
     <section className="ticker" aria-label="Compromissos editoriais">
-      <span>Atualização de 4 em 4 horas</span>
-      <p>Edição contínua 24h</p>
+      <span>Datas de publicação visíveis</span>
+      <p>Fontes identificadas</p>
       <i>✦</i>
       <p>Fontes checadas</p>
       <i>✦</i>
@@ -52,7 +52,7 @@ export const AppInstallCard: React.FC<AppInstallCardProps> = () => {
         <div>
           <span>Aplicativo Kurti</span>
           <h2 id="app-install-title">Leve a Kurti com você.</h2>
-          <p>Instale no celular e abra em tela cheia. O app usa o mesmo conteúdo público do site e recebe cada nova edição automaticamente.</p>
+          <p>Instale a Kurti no celular para abrir o site em tela cheia e acessar o conteúdo com mais rapidez.</p>
         </div>
         <button type="button" onClick={handleInstall}>
           {isInstalled ? 'Aplicativo instalado' : 'Instalar aplicativo'}

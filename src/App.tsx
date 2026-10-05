@@ -51,13 +51,12 @@ import { OfflineIndicator } from './components/OfflineIndicator';
 import { MiniPlayer } from './components/MiniPlayer';
 import { MusicPlayerProvider } from './context/MusicPlayerContext';
 import { useAuth } from './hooks/useAuth';
-import { apply4HourCycleToStories } from './utils/fourHourCycle';
 
 function MainApp() {
   const { user } = useAuth();
   // Extracted datasets with 4-hour continuous update cycle applied
   const rawStories = rawData.stories as unknown as Story[];
-  const stories = useMemo(() => apply4HourCycleToStories(rawStories), [rawStories]);
+  const stories = rawStories;
   const fullArticles = rawData.fullArticles as unknown as Record<string, FullArticle>;
   const clubs = rawData.clubs as unknown as Club[];
   const cultureGuides = rawData.cultureGuides as unknown as CultureGuides;
@@ -286,6 +285,7 @@ function MainApp() {
         cartItems={cartItems}
         activeSection={activeSection}
         onNavigate={handleNavigate}
+        editionDate={rawData.metadata.shortDate}
       />
 
       {/* Main Content Container matching original layout */}

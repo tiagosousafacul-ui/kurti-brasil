@@ -23,7 +23,6 @@ import {
   Radio
 } from 'lucide-react';
 import { CartItem, User } from '../types';
-import { getCurrentCycleInfo } from '../utils/fourHourCycle';
 import { useMusicPlayer } from '../context/MusicPlayerContext';
 
 interface HeaderProps {
@@ -41,6 +40,7 @@ interface HeaderProps {
   cartItems: CartItem[];
   activeSection: string;
   onNavigate: (sectionId: string) => void;
+  editionDate: string;
 }
 
 export const Header: React.FC<HeaderProps> = ({
@@ -53,7 +53,8 @@ export const Header: React.FC<HeaderProps> = ({
   selectedLocation,
   cartItems,
   activeSection,
-  onNavigate
+  onNavigate,
+  editionDate
 }) => {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const [culturaOpen, setCulturaOpen] = useState(false);
@@ -91,7 +92,7 @@ export const Header: React.FC<HeaderProps> = ({
           <i></i>
           {selectedLocation || 'Identificando sua região'}
         </span>
-        <p>Plantão 24h · Atualizações de 4 em 4 horas. Jornalismo LGBT+ independente em tempo real.</p>
+        <p>Jornalismo LGBT+ independente, com datas e fontes identificadas.</p>
         <div style={{ display: 'flex', alignItems: 'center', gap: '10px', justifySelf: 'end' }}>
           {onOpenShare && (
             <button
@@ -117,18 +118,18 @@ export const Header: React.FC<HeaderProps> = ({
           )}
           <span
             style={{ display: 'inline-flex', alignItems: 'center', gap: '6px', fontWeight: 700 }}
-            title="Ciclo editorial contínuo a cada 4 horas"
+            title={`Edição registrada em ${editionDate}`}
           >
             <span
               style={{
                 width: '6px',
                 height: '6px',
                 borderRadius: '50%',
-                background: '#34d399',
+                background: '#a8a29e',
                 display: 'inline-block'
               }}
             />
-            {getCurrentCycleInfo().editionLabel.toUpperCase()} · {getCurrentCycleInfo().formattedDate}
+            EDIÇÃO DE {editionDate.toUpperCase()}
           </span>
         </div>
       </div>

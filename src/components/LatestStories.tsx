@@ -29,7 +29,7 @@ export const LatestStories: React.FC<LatestStoriesProps> = ({
       <div className="section-heading">
         <div>
           <span className="eyebrow">
-            {isArchive ? 'Arquivo Editorial · Notícias e Destaques' : 'Página inicial · atualizações recentes'}
+            {isArchive ? 'Arquivo Editorial · Notícias e Destaques' : 'Página inicial · matérias e destaques'}
           </span>
           <h2>{isArchive ? 'Todas as Notícias' : 'Pra ficar por dentro'}</h2>
         </div>

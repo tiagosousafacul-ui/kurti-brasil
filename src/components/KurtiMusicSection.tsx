@@ -41,6 +41,7 @@ function extractYouTubeId(urlOrId: string): string | null {
 export const KurtiMusicSection: React.FC = () => {
   const {
     currentTrack,
+    isPlaying,
     playTrack,
     nextTrack,
     prevTrack,
@@ -269,7 +270,7 @@ export const KurtiMusicSection: React.FC = () => {
 
   // Full YouTube embed URL with standard parameters
   const originParam = typeof window !== 'undefined' ? encodeURIComponent(window.location.origin) : '';
-  const fullEmbedUrl = `https://www.youtube.com/embed/${currentTrack.youtubeId}?autoplay=1&enablejsapi=1&origin=${originParam}&rel=0&controls=1&showinfo=1&playsinline=1&modestbranding=0&iv_load_policy=3`;
+  const fullEmbedUrl = `https://www.youtube.com/embed/${currentTrack.youtubeId}?autoplay=${isPlaying ? 1 : 0}&enablejsapi=1&origin=${originParam}&rel=0&controls=1&showinfo=1&playsinline=1&modestbranding=0&iv_load_policy=3`;
 
   return (
     <section className="editorial-section page-section" id="kurtimusic" style={{ scrollMarginTop: '115px' }}>
@@ -470,7 +471,7 @@ export const KurtiMusicSection: React.FC = () => {
                   <div className="flex items-center gap-2 mb-2">
                     <span className="text-xs font-black uppercase tracking-wider text-white bg-gradient-to-r from-[#ed003f] to-[#ff2b66] px-3.5 py-1 rounded-full shadow-md flex items-center gap-1.5 border border-white/30">
                       <Headphones className="w-4 h-4 text-white" />
-                      Modo Só Música Ativo
+                      {isPlaying ? 'Reproduzindo áudio' : 'Áudio pausado'}
                     </span>
                   </div>
 
@@ -505,7 +506,7 @@ export const KurtiMusicSection: React.FC = () => {
                   aria-hidden="true"
                 >
                   <iframe
-                    key={`audio-mode-${currentTrack.youtubeId}-${embedReloadKey}`}
+                    key={`audio-mode-${currentTrack.youtubeId}-${embedReloadKey}-${isPlaying ? 'playing' : 'paused'}`}
                     src={fullEmbedUrl}
                     title={`${currentTrack.title} - ${currentTrack.artist}`}
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -517,7 +518,7 @@ export const KurtiMusicSection: React.FC = () => {
               <>
                 <div className="relative aspect-video w-full rounded-2xl overflow-hidden bg-black shadow-inner border border-[#332226]">
                   <iframe
-                    key={`video-mode-${currentTrack.youtubeId}-${embedReloadKey}`}
+                    key={`video-mode-${currentTrack.youtubeId}-${embedReloadKey}-${isPlaying ? 'playing' : 'paused'}`}
                     src={fullEmbedUrl}
                     title={`${currentTrack.title} - ${currentTrack.artist}`}
                     className="w-full h-full border-0 absolute inset-0"

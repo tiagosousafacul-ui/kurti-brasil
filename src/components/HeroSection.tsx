@@ -20,7 +20,7 @@ export const HeroSection: React.FC<HeroSectionProps> = ({ stories, onOpenStory }
     'KURTI'
   );
 
-  const dateBadge = leadStory.dateLabel ? leadStory.dateLabel.split('•')[0].trim() : 'HÁ 25 MIN';
+  const dateBadge = leadStory.dateLabel ? leadStory.dateLabel.split('•')[0].trim() : 'EM DESTAQUE';
 
   return (
     <section className="hero-grid" id="inicio">
@@ -32,7 +32,7 @@ export const HeroSection: React.FC<HeroSectionProps> = ({ stories, onOpenStory }
         <div className="lead-copy">
           <div className="story-meta">
             <span>{leadStory.category}</span>
-            <time>{leadStory.dateLabel}</time>
+            <time dateTime={leadStory.publishedAt}>{leadStory.dateLabel}</time>
           </div>
           <h1>{leadStory.title}</h1>
           <p>{leadStory.summary}</p>
@@ -49,7 +49,7 @@ export const HeroSection: React.FC<HeroSectionProps> = ({ stories, onOpenStory }
           <span className="poster-note">
             {leadStory.category}
             <br />
-            <b>PLANTÃO 4H</b>
+            <b>CURADORIA KURTI</b>
           </span>
           <span className="poster-date">{dateBadge}</span>
         </div>
@@ -71,7 +71,7 @@ export const HeroSection: React.FC<HeroSectionProps> = ({ stories, onOpenStory }
               <div>
                 <div className="story-meta">
                   <span>{story.category}</span>
-                  <time>{story.dateLabel}</time>
+                  <time dateTime={story.publishedAt}>{story.dateLabel}</time>
                 </div>
                 <h2>{story.title}</h2>
                 <p>{story.summary}</p>

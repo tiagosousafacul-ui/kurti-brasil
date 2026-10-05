@@ -41,6 +41,7 @@ function extractYouTubeId(urlOrId: string): string | null {
 export const KurtiMusicSection: React.FC = () => {
   const {
     currentTrack,
+    isPlaying,
     playTrack,
     nextTrack,
     prevTrack,
@@ -269,7 +270,7 @@ export const KurtiMusicSection: React.FC = () => {
 
   // Full YouTube embed URL with standard parameters
   const originParam = typeof window !== 'undefined' ? encodeURIComponent(window.location.origin) : '';
-  const fullEmbedUrl = `https://www.youtube.com/embed/${currentTrack.youtubeId}?autoplay=1&enablejsapi=1&origin=${originParam}&rel=0&controls=1&showinfo=1&playsinline=1&modestbranding=0&iv_load_policy=3`;
+  const fullEmbedUrl = `https://www.youtube.com/embed/${currentTrack.youtubeId}?autoplay=${isPlaying ? 1 : 0}&enablejsapi=1&origin=${originParam}&rel=0&controls=1&showinfo=1&playsinline=1&modestbranding=0&iv_load_policy=3`;
 
   return (
     <section className="editorial-section page-section" id="kurtimusic" style={{ scrollMarginTop: '115px' }}>
@@ -443,7 +444,7 @@ export const KurtiMusicSection: React.FC = () => {
                 {/* Rotating Vinyl Turntable with Real Colorful Album Cover */}
                 <div className="relative w-40 h-40 sm:w-48 sm:h-48 rounded-full bg-gradient-to-tr from-black via-neutral-900 to-neutral-800 border-4 border-[#ff2b66] shadow-[0_12px_45px_rgba(237,0,63,0.6)] flex items-center justify-center mb-4">
                   {/* Outer grooves spinning */}
-                  <div className="w-full h-full rounded-full flex items-center justify-center p-2.5 animate-[spin_6s_linear_infinite]">
+                  <div className={`w-full h-full rounded-full flex items-center justify-center p-2.5 ${isPlaying ? "animate-[spin_6s_linear_infinite]" : ""}`}>
                     <div className="w-full h-full rounded-full border-2 border-neutral-700/80 flex items-center justify-center p-2">
                       <div className="w-full h-full rounded-full border border-neutral-600/60 flex items-center justify-center p-2 bg-neutral-950">
                         {/* Center Colorful Album Art */}
@@ -470,19 +471,19 @@ export const KurtiMusicSection: React.FC = () => {
                   <div className="flex items-center gap-2 mb-2">
                     <span className="text-xs font-black uppercase tracking-wider text-white bg-gradient-to-r from-[#ed003f] to-[#ff2b66] px-3.5 py-1 rounded-full shadow-md flex items-center gap-1.5 border border-white/30">
                       <Headphones className="w-4 h-4 text-white" />
-                      Modo Só Música Ativo
+                      {isPlaying ? 'Reproduzindo áudio' : 'Áudio pausado'}
                     </span>
                   </div>
 
                   {/* High Fidelity Equalizer Bars */}
                   <div className="flex items-end gap-1.5 h-7 my-1.5 px-3 py-1 bg-black/40 rounded-xl border border-white/10">
-                    <span className="w-1.5 bg-[#ed003f] rounded-full h-full animate-[pulse_0.7s_infinite]" />
-                    <span className="w-1.5 bg-[#ff2b66] rounded-full h-3/4 animate-[pulse_0.9s_infinite_100ms]" />
-                    <span className="w-1.5 bg-white rounded-full h-4/5 animate-[pulse_0.6s_infinite_200ms]" />
-                    <span className="w-1.5 bg-[#ff8cab] rounded-full h-2/3 animate-[pulse_0.8s_infinite_150ms]" />
-                    <span className="w-1.5 bg-[#ed003f] rounded-full h-5/6 animate-[pulse_0.75s_infinite_50ms]" />
-                    <span className="w-1.5 bg-white rounded-full h-3/5 animate-[pulse_0.85s_infinite_250ms]" />
-                    <span className="w-1.5 bg-[#ff2b66] rounded-full h-4/5 animate-[pulse_0.65s_infinite_180ms]" />
+                    <span className={`w-1.5 bg-[#ed003f] rounded-full h-full ${isPlaying ? 'animate-[pulse_0.7s_infinite]' : 'opacity-30'}`} />
+                    <span className={`w-1.5 bg-[#ff2b66] rounded-full h-3/4 ${isPlaying ? 'animate-[pulse_0.9s_infinite_100ms]' : 'opacity-30'}`} />
+                    <span className={`w-1.5 bg-white rounded-full h-4/5 ${isPlaying ? 'animate-[pulse_0.6s_infinite_200ms]' : 'opacity-30'}`} />
+                    <span className={`w-1.5 bg-[#ff8cab] rounded-full h-2/3 ${isPlaying ? 'animate-[pulse_0.8s_infinite_150ms]' : 'opacity-30'}`} />
+                    <span className={`w-1.5 bg-[#ed003f] rounded-full h-5/6 ${isPlaying ? 'animate-[pulse_0.75s_infinite_50ms]' : 'opacity-30'}`} />
+                    <span className={`w-1.5 bg-white rounded-full h-3/5 ${isPlaying ? 'animate-[pulse_0.85s_infinite_250ms]' : 'opacity-30'}`} />
+                    <span className={`w-1.5 bg-[#ff2b66] rounded-full h-4/5 ${isPlaying ? 'animate-[pulse_0.65s_infinite_180ms]' : 'opacity-30'}`} />
                   </div>
 
                   <p className="text-xs text-white/90 font-medium mt-2 max-w-md drop-shadow-sm">
@@ -505,7 +506,7 @@ export const KurtiMusicSection: React.FC = () => {
                   aria-hidden="true"
                 >
                   <iframe
-                    key={`audio-mode-${currentTrack.youtubeId}-${embedReloadKey}`}
+                    key={`audio-mode-${currentTrack.youtubeId}-${embedReloadKey}-${isPlaying ? 'playing' : 'paused'}`}
                     src={fullEmbedUrl}
                     title={`${currentTrack.title} - ${currentTrack.artist}`}
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -517,7 +518,7 @@ export const KurtiMusicSection: React.FC = () => {
               <>
                 <div className="relative aspect-video w-full rounded-2xl overflow-hidden bg-black shadow-inner border border-[#332226]">
                   <iframe
-                    key={`video-mode-${currentTrack.youtubeId}-${embedReloadKey}`}
+                    key={`video-mode-${currentTrack.youtubeId}-${embedReloadKey}-${isPlaying ? 'playing' : 'paused'}`}
                     src={fullEmbedUrl}
                     title={`${currentTrack.title} - ${currentTrack.artist}`}
                     className="w-full h-full border-0 absolute inset-0"
@@ -552,7 +553,7 @@ export const KurtiMusicSection: React.FC = () => {
               <div className="flex items-center justify-between gap-2 mb-2.5">
                 <span className="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-full bg-[#ed003f]/20 border border-[#ed003f]/40 text-[#ff8cab] text-[10px] font-extrabold uppercase tracking-wider">
                   <span className="w-2 h-2 rounded-full bg-[#ed003f] animate-ping" />
-                  Player Ativo
+                  {isPlaying ? 'Tocando agora' : 'Pausado'}
                 </span>
                 <span className="text-[#a89ea0] text-[11px] font-medium truncate max-w-[150px]">
                   {currentTrack.category} {currentTrack.year ? `· ${currentTrack.year}` : ''}

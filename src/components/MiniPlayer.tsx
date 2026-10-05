@@ -25,8 +25,6 @@ export const MiniPlayer: React.FC<MiniPlayerProps> = ({
     currentTrack,
     isPlaying,
     isMiniPlayerOpen,
-    tracks,
-    playTrack,
     nextTrack,
     prevTrack,
     togglePlay,

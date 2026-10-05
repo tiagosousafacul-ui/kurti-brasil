@@ -304,6 +304,7 @@ function MainApp() {
         {(activeSection === 'eventos' || activeSection === 'balada') && (
           <EventsSection
             clubs={clubs}
+            events={stories.filter((story) => story.category === 'Eventos')}
             cultureGuides={cultureGuides}
             selectedLocation={selectedLocation}
             onOpenLocation={() => setIsLocationOpen(true)}

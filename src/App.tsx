@@ -296,7 +296,7 @@ function MainApp() {
             <HeroSection stories={stories} onOpenStory={handleOpenStory} />
             <Ticker />
             <AppInstallCard onOpenStore={() => handleNavigate('loja')} />
-            <LatestStories stories={stories} onOpenStory={handleOpenStory} />
+            <LatestStories stories={stories} onOpenStory={handleOpenStory} lastCheckedAt={rawData.metadata.updatedAt} />
           </>
         )}
 
@@ -335,7 +335,7 @@ function MainApp() {
 
         {/* NOTÍCIAS / ARQUIVO VIEW */}
         {activeSection === 'noticias' && (
-          <LatestStories stories={stories} onOpenStory={handleOpenStory} isArchive={true} />
+          <LatestStories stories={stories} onOpenStory={handleOpenStory} lastCheckedAt={rawData.metadata.updatedAt} isArchive={true} />
         )}
 
         {/* KURTI+ CHANNELS VIEW */}
@@ -349,6 +349,7 @@ function MainApp() {
             stories={stories.filter((s) => s.category.toLowerCase().includes(activeSection))}
             onOpenStory={handleOpenStory}
             isArchive={true}
+            lastCheckedAt={rawData.metadata.updatedAt}
           />
         )}
 

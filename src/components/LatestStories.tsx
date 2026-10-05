@@ -5,12 +5,14 @@ interface LatestStoriesProps {
   stories: Story[];
   onOpenStory: (storyId: string) => void;
   isArchive?: boolean;
+  lastCheckedAt: string;
 }
 
 export const LatestStories: React.FC<LatestStoriesProps> = ({
   stories,
   onOpenStory,
-  isArchive = false
+  isArchive = false,
+  lastCheckedAt
 }) => {
   // If not archive, take the stories that follow the hero stories
   const displayedStories = useMemo(() => {
@@ -37,7 +39,7 @@ export const LatestStories: React.FC<LatestStoriesProps> = ({
             <path d="m18.5 15 .7 2.8 2.8.7-2.8.7-.7 2.8-.7-2.8-2.8-.7 2.8-.7.7-2.8Z" fill="currentColor"></path>
           </svg>
           <span>
-            <b>Curadoria Kurti IA</b>Checada em 9 set, 12h
+            <b>Curadoria Kurti IA</b>Última checagem em {lastCheckedAt}
           </span>
         </div>
       </div>

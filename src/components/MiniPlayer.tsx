@@ -2,6 +2,7 @@ import React, { useState, useRef } from 'react';
 import {
   SkipBack,
   SkipForward,
+  Maximize2,
   X,
   Music,
   Play,

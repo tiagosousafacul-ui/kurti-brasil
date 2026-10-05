@@ -1,0 +1,6 @@
+{
+  "name": "Kurti — Conteúdo LGBT+",
+  "description": "Agenda local por estado e cidade, cultura, entretenimento, direitos e notícias LGBT+ para todo o Brasil. Cópia oficial com loja e formulários integrados.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

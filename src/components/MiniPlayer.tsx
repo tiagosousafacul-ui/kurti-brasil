@@ -73,41 +73,6 @@ export const MiniPlayer: React.FC<MiniPlayerProps> = ({
     setCloseToast(false);
   };
 
-  const isMusicSection = activeSection === 'kurtimusic' || activeSection === 'kurti-music';
-  const originParam = typeof window !== 'undefined' ? encodeURIComponent(window.location.origin) : '';
-  const embedUrl = currentTrack
-    ? `https://www.youtube.com/embed/${currentTrack.youtubeId}?autoplay=1&enablejsapi=1&origin=${originParam}&rel=0&controls=0&playsinline=1`
-    : '';
-
-  // Background Audio Worker: Plays only on non-music sections to prevent duplicate audio
-  const backgroundAudioPlayer = !isMusicSection && currentTrack && isPlaying ? (
-    <div
-      style={{
-        position: 'fixed',
-        width: '1px',
-        height: '1px',
-        opacity: 0.001,
-        pointerEvents: 'none',
-        bottom: 0,
-        left: 0,
-        zIndex: -9999,
-        overflow: 'hidden'
-      }}
-      aria-hidden="true"
-    >
-      <iframe
-        key={`bg-audio-${currentTrack.youtubeId}`}
-        src={embedUrl}
-        title={`Áudio Kurti - ${currentTrack.title}`}
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-      />
-    </div>
-  ) : null;
-
-  if (!currentTrack) {
-    return backgroundAudioPlayer;
-  }
-
   // =========================================================================
   // 1. ESTADO FECHADO / MINIMIZADO: DOCK FLUTUANTE DE ALTO CONTRASTE (FUNDO ESCURO, TEXTO BRANCO E ROSA)
   // =========================================================================

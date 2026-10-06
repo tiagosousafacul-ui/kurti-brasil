@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "shortDate": "9 SET 2026",
-    "updatedAt": "9 set, 12h",
+    "shortDate": "5 OUT 2026",
+    "updatedAt": "5 out, 21h",
     "priceCheckedAt": "07/09/2026"
   },
   "navigation": [
@@ -58,6 +58,19 @@
     }
   ],
   "stories": [
+    {
+      "id": "representacao-lgbt-eleicoes-2026-balanco-ipc",
+      "publishedAt": "2026-10-05T18:37:00-03:00",
+      "category": "Notícias",
+      "sectionId": "noticias",
+      "title": "Levantamento aponta 35 pessoas LGBT+ eleitas no Brasil em 2026",
+      "summary": "Balanço do Instituto Plena Cidadania (IPC) contabilizou 35 pessoas LGBT+ eleitas para cargos legislativos em 2026, ante 18 em 2022. O recorte reúne Câmara, Senado e parlamentos estaduais e distrital.",
+      "dateLabel": "5 OUT • REPRESENTAÇÃO",
+      "source": "Terra, com levantamento do Instituto Plena Cidadania (IPC)",
+      "sourceUrl": "https://www.terra.com.br/noticias/brasil/numero-de-pessoas-lgbt-eleitas-no-brasil-quase-dobra-em-2026,bf287b4c0ab61064951329b4a7a767e6v8bsmdnx.html",
+      "tone": "violet",
+      "artMark": "IPC"
+    },
     {
       "id": "icara-faixas-casamento-homoafetivo-desfile-2026",
       "publishedAt": "2026-09-09T12:01:00-03:00",
@@ -1091,6 +1104,31 @@
     }
   ],
   "fullArticles": {
+    "representacao-lgbt-eleicoes-2026-balanco-ipc": {
+      "readingTime": "3 min de leitura",
+      "body": [
+        "Um balanço pós-eleitoral do Instituto Plena Cidadania (IPC), publicado pelo Terra em 5 de outubro, contabilizou 35 pessoas LGBT+ eleitas para cargos legislativos no Brasil em 2026. Em 2022, o levantamento havia registrado 18.",
+        "Segundo os números atribuídos ao IPC na reportagem, 13 pessoas LGBT+ foram eleitas para a Câmara dos Deputados, uma para o Senado e 21 para assembleias legislativas e a Câmara Distrital.",
+        "O Terra também informa que, entre as 35 pessoas contabilizadas, 27 são mulheres, 22 são pessoas negras e sete são mulheres trans ou travestis. Esses recortes são apresentados pela reportagem como dados do levantamento do IPC.",
+        "A contagem de 35 é do levantamento do Instituto Plena Cidadania. A página de resultados do Tribunal Superior Eleitoral permite consultar votos e pessoas eleitas; este total de representação LGBT+ é atribuído ao relatório do IPC."
+      ],
+      "sections": [
+        {
+          "heading": "O que o levantamento informa",
+          "bullets": [
+            "35 pessoas LGBT+ eleitas em 2026, ante 18 em 2022",
+            "13 eleitas para a Câmara dos Deputados, uma para o Senado e 21 para legislativos estaduais e distrital",
+            "Os números de identidade e perfil são atribuídos ao Instituto Plena Cidadania"
+          ]
+        },
+        {
+          "heading": "Fonte e contexto",
+          "paragraphs": [
+            "A Kurti consultou a reportagem do Terra publicada em 5 de outubro, que atribui a contagem ao Instituto Plena Cidadania. O resultado oficial de votos e candidaturas pode ser consultado no portal do Tribunal Superior Eleitoral."
+          ]
+        }
+      ]
+    },
     "icara-faixas-casamento-homoafetivo-desfile-2026": {
       "readingTime": "4 min de leitura",
       "body": [

@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "shortDate": "5 OUT 2026",
-    "updatedAt": "5 out, 21h",
+    "shortDate": "6 OUT 2026",
+    "updatedAt": "6 out, 11h",
     "priceCheckedAt": "07/09/2026"
   },
   "navigation": [
@@ -58,6 +58,19 @@
     }
   ],
   "stories": [
+    {
+      "id": "mad-sandhu-familia-relato-ameacas-apuracao-2026",
+      "publishedAt": "2026-10-06T09:05:00-03:00",
+      "category": "Notícias",
+      "sectionId": "noticias",
+      "title": "Pai de Mad Sandhu relata ameaças anteriores; polícia ainda apura motivação",
+      "summary": "Em entrevista publicada pelo ThePrint em 6 de outubro, o pai do influenciador queer indiano disse que ele havia recebido ameaças e pedido proteção policial meses antes de ser morto. A polícia ainda não estabeleceu a motivação; publicações que reivindicaram o crime não foram autenticadas.",
+      "dateLabel": "6 OUT • ÍNDIA",
+      "source": "ThePrint; Indian Express; NDTV",
+      "sourceUrl": "https://theprint.in/ground-reports/madhusudan-mad-sandhu-punjab-queer-influencer-shot-dead/3063360/",
+      "tone": "red",
+      "artMark": "ÍNDIA"
+    },
     {
       "id": "representacao-lgbt-eleicoes-2026-balanco-ipc",
       "publishedAt": "2026-10-05T18:37:00-03:00",
@@ -1104,6 +1117,30 @@
     }
   ],
   "fullArticles": {
+    "mad-sandhu-familia-relato-ameacas-apuracao-2026": {
+      "readingTime": "3 min de leitura",
+      "body": [
+        "Em reportagem publicada em 6 de outubro, o ThePrint entrevistou Bhupendra Singh, pai do influenciador e maquiador queer Madhusudan “Mad” Sandhu. Ele relatou que o filho havia recebido ameaças relacionadas às roupas, aos vídeos e à sexualidade e que a família pediu proteção policial meses antes do assassinato.",
+        "Sandhu, de 28 anos, foi morto a tiros em 3 de outubro enquanto aguardava seu veículo em um lava-rápido em Amritsar, no estado indiano de Punjab. O Indian Express informou que a polícia registrou o caso e investigava diferentes linhas, sem motivo confirmado.",
+        "Segundo o ThePrint, publicações nas redes sociais que reivindicaram o crime ainda não foram autenticadas pela polícia. O jornal também relata que investigadores verificam imagens de câmeras e outras evidências. Até a publicação desta matéria, a motivação e a autoria não estavam oficialmente estabelecidas."
+      ],
+      "sections": [
+        {
+          "heading": "O que se sabe",
+          "bullets": [
+            "O ThePrint publicou a entrevista com o pai em 6 de outubro.",
+            "O assassinato ocorreu em Amritsar no dia 3 de outubro, segundo ThePrint e Indian Express.",
+            "A polícia ainda apura autoria e motivação; alegações publicadas em redes sociais não foram confirmadas."
+          ]
+        },
+        {
+          "heading": "Fontes e contexto",
+          "paragraphs": [
+            "A reportagem do ThePrint apresenta o relato da família e registra que a polícia não estabeleceu a motivação. O Indian Express confirmou o assassinato com base em informações policiais; a NDTV informou que investigadores consideravam o ataque planejado, sem identificar publicamente os responsáveis."
+          ]
+        }
+      ]
+    },
     "representacao-lgbt-eleicoes-2026-balanco-ipc": {
       "readingTime": "3 min de leitura",
       "body": [

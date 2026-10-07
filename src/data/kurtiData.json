@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "shortDate": "6 OUT 2026",
-    "updatedAt": "6 out, 11h",
+    "shortDate": "7 OUT 2026",
+    "updatedAt": "7 out, 12h",
     "priceCheckedAt": "07/09/2026"
   },
   "navigation": [
@@ -58,6 +58,19 @@
     }
   ],
   "stories": [
+    {
+      "id": "kelley-robinson-alianca-eleitores-negros-lgbtq-midterms-2026",
+      "publishedAt": "2026-10-06T15:31:00-03:00",
+      "category": "Notícias",
+      "sectionId": "noticias",
+      "title": "Líder da HRC defende aliança entre eleitores negros e LGBTQ+ nos EUA",
+      "summary": "Em entrevista ao TheGrio, republicada pelo AOL em 6 de outubro, Kelley Robinson afirmou que eleitores negros e LGBTQ+ podem unir forças em torno de direitos civis. A presidente da HRC também defendeu que candidatos respondam diretamente a anúncios anti-trans, sem perder de vista temas como custo de vida e saúde.",
+      "dateLabel": "6 OUT • EUA",
+      "source": "TheGrio, republicado pelo AOL; Human Rights Campaign",
+      "sourceUrl": "https://thegrio.com/2026/10/06/hrc-president-attacks-on-civil-rights-black-lgbtq-voters-2026/",
+      "tone": "blue",
+      "artMark": "EUA"
+    },
     {
       "id": "mad-sandhu-familia-relato-ameacas-apuracao-2026",
       "publishedAt": "2026-10-06T09:05:00-03:00",
@@ -1117,6 +1130,30 @@
     }
   ],
   "fullArticles": {
+    "kelley-robinson-alianca-eleitores-negros-lgbtq-midterms-2026": {
+      "readingTime": "3 min de leitura",
+      "body": [
+        "Em entrevista publicada pelo TheGrio em 6 de outubro, Kelley Robinson, presidente da Human Rights Campaign (HRC), disse que eleitores negros e LGBTQ+ têm interesses comuns na defesa de direitos civis e podem ampliar sua articulação política nas eleições legislativas dos Estados Unidos, marcadas para novembro.",
+        "Robinson criticou anúncios de campanha que usam pessoas trans como alvo e defendeu que candidatos respondam a essas peças com informação direta. Ao mesmo tempo, afirmou que eleitores também priorizam questões cotidianas como custo de vida, corrupção e despesas com saúde.",
+        "As avaliações e os dados sobre a atuação eleitoral da HRC citados na entrevista são atribuídos à própria organização e à sua presidente. A reportagem registra as declarações de Robinson; elas não representam uma medição independente das prioridades de todo o eleitorado."
+      ],
+      "sections": [
+        {
+          "heading": "O que disse Kelley Robinson",
+          "bullets": [
+            "A presidente da HRC defendeu alianças entre eleitores negros e LGBTQ+ em torno da proteção de direitos civis.",
+            "Ela pediu que candidatos contestem diretamente anúncios anti-trans, em vez de deixá-los sem resposta.",
+            "Robinson também apontou custo de vida e saúde entre as preocupações dos eleitores."
+          ]
+        },
+        {
+          "heading": "Fonte e contexto",
+          "paragraphs": [
+            "A entrevista foi publicada pelo TheGrio em 6 de outubro e republicada pelo AOL, que registra a publicação às 18h31 UTC (15h31 em Brasília). As opiniões e os números sobre mobilização da HRC são apresentados como declarações da organização e de sua presidente."
+          ]
+        }
+      ]
+    },
     "mad-sandhu-familia-relato-ameacas-apuracao-2026": {
       "readingTime": "3 min de leitura",
       "body": [

@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "shortDate": "7 OUT 2026",
-    "updatedAt": "7 out, 12h",
+    "shortDate": "8 OUT 2026",
+    "updatedAt": "8 out, 8h",
     "priceCheckedAt": "07/09/2026"
   },
   "navigation": [
@@ -58,6 +58,19 @@
     }
   ],
   "stories": [
+    {
+      "id": "trump-compartilha-anuncio-anti-trans-annie-andrews-2026",
+      "publishedAt": "2026-10-07T17:00:00-03:00",
+      "category": "Notícias",
+      "sectionId": "noticias",
+      "title": "Trump compartilha anúncio anti-trans contra candidata ao Senado nos EUA",
+      "summary": "Em 7 de outubro, Donald Trump publicou no Truth Social um anúncio que ataca Annie Andrews, candidata democrata ao Senado pela Carolina do Sul. Reportagens do LGBTQ Nation e do The Daily Beast dizem que a peça associa apoio a cuidados de saúde para jovens trans a uma ameaça a crianças; Andrews respondeu que manteria o foco em custo de vida e saúde.",
+      "dateLabel": "7 OUT • EUA",
+      "source": "LGBTQ Nation; The Daily Beast; arquivo público de posts de Trump",
+      "sourceUrl": "https://www.lgbtqnation.com/2026/10/shares-absurd-anti-trans-ad-attacking-dem-candidate-but-she-refuses-to-lose-focus/",
+      "tone": "red",
+      "artMark": "EUA"
+    },
     {
       "id": "kelley-robinson-alianca-eleitores-negros-lgbtq-midterms-2026",
       "publishedAt": "2026-10-06T15:31:00-03:00",
@@ -1130,6 +1143,30 @@
     }
   ],
   "fullArticles": {
+    "trump-compartilha-anuncio-anti-trans-annie-andrews-2026": {
+      "readingTime": "3 min de leitura",
+      "body": [
+        "Em 7 de outubro, o presidente dos Estados Unidos, Donald Trump, compartilhou no Truth Social o anúncio “We Can’t Trust Annie Andrews”, produzido pelo comitê Security is Strength PAC. A peça ataca a candidata democrata ao Senado pela Carolina do Sul e critica seu apoio a cuidados de saúde para jovens trans e à participação de atletas trans no esporte.",
+        "O LGBTQ Nation descreveu o vídeo como uma representação de uma pessoa trans como ameaça a uma criança. O The Daily Beast também confirmou que Trump publicou o anúncio na quarta-feira. Andrews é cisgênero; o ataque usa temas anti-trans para contestar suas posições políticas.",
+        "Em entrevista à emissora local WYFF, reproduzida pelo LGBTQ Nation, Andrews disse que não deixaria os ataques tirarem o foco de temas como preços e atendimento de saúde. As alegações da propaganda são posições de campanha e não devem ser tratadas como fatos verificados sobre a candidata ou sobre pessoas trans."
+      ],
+      "sections": [
+        {
+          "heading": "O que foi publicado",
+          "bullets": [
+            "Trump compartilhou no Truth Social um vídeo de ataque contra Annie Andrews em 7 de outubro.",
+            "O anúncio, do Security is Strength PAC, critica o apoio da candidata a cuidados de saúde para jovens trans e a atletas trans.",
+            "Andrews disse à WYFF que manteria o foco nos temas que considera prioritários para os eleitores."
+          ]
+        },
+        {
+          "heading": "Fontes e contexto",
+          "paragraphs": [
+            "O LGBTQ Nation publicou a descrição do anúncio e a resposta de Andrews. O The Daily Beast confirmou a publicação do vídeo por Trump. A candidata é cisgênero; a reportagem trata o caso como uso de mensagens anti-trans em campanha."
+          ]
+        }
+      ]
+    },
     "kelley-robinson-alianca-eleitores-negros-lgbtq-midterms-2026": {
       "readingTime": "3 min de leitura",
       "body": [

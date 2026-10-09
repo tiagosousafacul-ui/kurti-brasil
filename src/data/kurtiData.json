@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "shortDate": "8 OUT 2026",
-    "updatedAt": "8 out, 8h",
+    "shortDate": "9 OUT 2026",
+    "updatedAt": "9 out, 8h",
     "priceCheckedAt": "07/09/2026"
   },
   "navigation": [
@@ -58,6 +58,19 @@
     }
   ],
   "stories": [
+    {
+      "id": "bbc-retrata-acusacoes-falsas-casal-pinknews-2026",
+      "publishedAt": "2026-10-08T12:23:00-03:00",
+      "category": "Notícias",
+      "sectionId": "noticias",
+      "title": "BBC pede desculpas e indeniza casal fundador do PinkNews",
+      "summary": "A BBC pediu desculpas e pagou uma indenização descrita como “substancial”, sem divulgar o valor, a Benjamin Cohen e Anthony James. A emissora admitiu no Tribunal Superior que um documentário de 2024 e uma reportagem continham alegações falsas e difamatórias; os conteúdos foram removidos.",
+      "dateLabel": "8 OUT • REINO UNIDO",
+      "source": "The Guardian; BBC",
+      "sourceUrl": "https://www.theguardian.com/media/2026/oct/08/bbc-pays-compensation-pinknews-couple-false-sexual-misconduct-allegations-benjamin-cohen",
+      "tone": "violet",
+      "artMark": "BBC"
+    },
     {
       "id": "trump-compartilha-anuncio-anti-trans-annie-andrews-2026",
       "publishedAt": "2026-10-07T17:00:00-03:00",
@@ -3956,6 +3969,30 @@
           "heading": "Na KurtiMusic",
           "paragraphs": [
             "Este especial é uma análise editorial original. Notícias sobre lançamentos, turnês e premiações continuam separadas e recebem fonte própria sempre que houver fatos novos."
+          ]
+        }
+      ]
+    },
+    "bbc-retrata-acusacoes-falsas-casal-pinknews-2026": {
+      "readingTime": "2 min de leitura",
+      "body": [
+        "A BBC pediu desculpas e pagou uma indenização descrita como “substancial” a Benjamin Cohen, fundador do PinkNews, e a seu marido, Anthony James. O valor não foi divulgado.",
+        "Segundo o relato do The Guardian sobre a audiência no Tribunal Superior, a BBC admitiu que o documentário de 2024 “PinkNews: Behind Closed Doors” e uma reportagem relacionada fizeram alegações falsas e difamatórias sobre o casal. A emissora retratou as afirmações e os conteúdos foram removidos.",
+        "A BBC confirmou em sua página de correções que removeu o programa e os artigos relacionados após um acordo com Cohen e James. O casal disse que doará a indenização à MS Society e à Bedfordshire Hospitals NHS Charity."
+      ],
+      "sections": [
+        {
+          "heading": "O que foi confirmado",
+          "bullets": [
+            "A BBC pediu desculpas e chegou a um acordo com Benjamin Cohen e Anthony James.",
+            "A emissora admitiu no Tribunal Superior que as alegações eram falsas e difamatórias.",
+            "O documentário e os artigos relacionados foram removidos; o valor da indenização não foi divulgado."
+          ]
+        },
+        {
+          "heading": "Fontes e contexto",
+          "paragraphs": [
+            "O The Guardian reportou os termos da audiência e do acordo em 8 de outubro de 2026. A página de Correções e Esclarecimentos da própria BBC confirma a remoção do programa e dos artigos após o acordo."
           ]
         }
       ]

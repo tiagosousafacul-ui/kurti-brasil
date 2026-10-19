@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "shortDate": "9 OUT 2026",
-    "updatedAt": "9 out, 8h",
+    "shortDate": "19 OUT 2026",
+    "updatedAt": "19 out, 12h",
     "priceCheckedAt": "07/09/2026"
   },
   "navigation": [
@@ -58,6 +58,19 @@
     }
   ],
   "stories": [
+    {
+      "id": "paradas-orgulho-mobilizacao-democracia-brasil-2026",
+      "publishedAt": "2026-10-18T12:56:00-03:00",
+      "category": "Notícias",
+      "sectionId": "noticias",
+      "title": "Mais de 100 Paradas do Orgulho articulam mobilização nacional",
+      "summary": "Reportagem da Mídia NINJA publicada em 18 de outubro relata uma articulação de representantes de mais de 100 Paradas do Orgulho para o segundo turno. A iniciativa “Construindo o Brasil do Orgulho” reúne redes e organizações LGBTQIA+ e anunciou ações presenciais e digitais em diferentes regiões.",
+      "dateLabel": "18 OUT • BRASIL",
+      "source": "Mídia NINJA",
+      "sourceUrl": "https://midianinja.org/mais-de-100-paradas-do-orgulho-se-unem-em-mobilizacao-nacional-e-anunciam-manifesto-pela-democracia/",
+      "tone": "violet",
+      "artMark": "ORGULHO"
+    },
     {
       "id": "bbc-retrata-acusacoes-falsas-casal-pinknews-2026",
       "publishedAt": "2026-10-08T12:23:00-03:00",
@@ -3993,6 +4006,30 @@
           "heading": "Fontes e contexto",
           "paragraphs": [
             "O The Guardian reportou os termos da audiência e do acordo em 8 de outubro de 2026. A página de Correções e Esclarecimentos da própria BBC confirma a remoção do programa e dos artigos após o acordo."
+          ]
+        }
+      ]
+    },
+    "paradas-orgulho-mobilizacao-democracia-brasil-2026": {
+      "readingTime": "2 min de leitura",
+      "body": [
+        "Em reportagem publicada em 18 de outubro, a Mídia NINJA informou que representantes de mais de 100 Paradas do Orgulho LGBTQIA+ participaram de uma articulação nacional voltada ao segundo turno das eleições, marcado para 25 de outubro.",
+        "Segundo a publicação, a iniciativa “Construindo o Brasil do Orgulho” reúne ABGLT, Aliança Nacional LGBTI+, ANTRA, a Secretaria Nacional LGBTQIA+ da CUT e mandatos parlamentares. A reportagem descreveu ações territoriais e digitais e anunciou, para 18 de outubro, atividades descentralizadas e a divulgação de um manifesto.",
+        "As informações sobre número de organizações, participantes e programação são atribuídas à reportagem da Mídia NINJA. O texto registra o anúncio e a agenda prevista pelos organizadores."
+      ],
+      "sections": [
+        {
+          "heading": "O que foi anunciado",
+          "bullets": [
+            "A reportagem relata articulação de representantes de mais de 100 Paradas do Orgulho de diferentes regiões do Brasil.",
+            "A iniciativa “Construindo o Brasil do Orgulho” anunciou ações presenciais e digitais relacionadas ao segundo turno.",
+            "A programação de 18 de outubro previa atividades descentralizadas e divulgação de um manifesto; a informação é atribuída à Mídia NINJA."
+          ]
+        },
+        {
+          "heading": "Fonte e contexto",
+          "paragraphs": [
+            "A Mídia NINJA publicou a reportagem em 18 de outubro de 2026. Os números, a composição da articulação e os detalhes da programação nesta matéria são apresentados conforme o relato da publicação."
           ]
         }
       ]

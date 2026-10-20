@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "shortDate": "19 OUT 2026",
-    "updatedAt": "19 out, 12h",
+    "shortDate": "20 OUT 2026",
+    "updatedAt": "20 out, 10h",
     "priceCheckedAt": "07/09/2026"
   },
   "navigation": [
@@ -58,6 +58,19 @@
     }
   ],
   "stories": [
+    {
+      "id": "christina-bohannan-responde-ataques-anti-trans-iowa-2026",
+      "publishedAt": "2026-10-19T18:13:00-03:00",
+      "category": "Notícias",
+      "sectionId": "noticias",
+      "title": "Candidata dos EUA responde a ataques anti-trans com foco em economia",
+      "summary": "Christina Bohannan, candidata democrata à Câmara por Iowa, publicou um anúncio em resposta a panfletos de sua adversária, a deputada republicana Mariannette Miller-Meeks, que a criticam por posições sobre direitos trans. No vídeo, Bohannan chama as acusações de falsas e direciona o debate para preços e política econômica. A reportagem relata elogios de eleitores trans à resposta.",
+      "dateLabel": "19 OUT • EUA",
+      "source": "LGBTQ Nation; Erin Reed",
+      "sourceUrl": "https://www.lgbtqnation.com/2026/10/trans-voters-cheer-dem-candidates-effective-response-ad-against-gop-anti-trans-attacks/",
+      "tone": "blue",
+      "artMark": "IOWA"
+    },
     {
       "id": "paradas-orgulho-mobilizacao-democracia-brasil-2026",
       "publishedAt": "2026-10-18T12:56:00-03:00",
@@ -4030,6 +4043,30 @@
           "heading": "Fonte e contexto",
           "paragraphs": [
             "A Mídia NINJA publicou a reportagem em 18 de outubro de 2026. Os números, a composição da articulação e os detalhes da programação nesta matéria são apresentados conforme o relato da publicação."
+          ]
+        }
+      ]
+    },
+    "christina-bohannan-responde-ataques-anti-trans-iowa-2026": {
+      "readingTime": "2 min de leitura",
+      "body": [
+        "Em anúncio publicado durante a campanha para a Câmara dos Representantes dos Estados Unidos, Christina Bohannan, democrata que disputa uma vaga por Iowa, respondeu a ataques de sua adversária republicana, a deputada Mariannette Miller-Meeks.",
+        "Segundo o LGBTQ Nation, panfletos da campanha de Miller-Meeks acusam Bohannan de apoiar o uso de recursos públicos para cirurgias de afirmação de gênero e criticam seu voto sobre a participação de meninas trans no esporte escolar. No vídeo, Bohannan chama a campanha de acusações de falsa e desloca a mensagem para temas econômicos.",
+        "O LGBTQ Nation relatou que eleitores trans elogiaram a resposta. A jornalista Erin Reed também descreveu o anúncio e reproduziu sua mensagem em reportagem publicada em 16 de outubro; as alegações dos panfletos são posições de campanha, não fatos independentes sobre a candidata."
+      ],
+      "sections": [
+        {
+          "heading": "A resposta da campanha",
+          "bullets": [
+            "Bohannan publicou um anúncio em resposta aos panfletos de Miller-Meeks.",
+            "A candidata chamou as acusações de falsas e levou a mensagem para preços e política econômica.",
+            "A reportagem do LGBTQ Nation registrou elogios de eleitores trans à estratégia."
+          ]
+        },
+        {
+          "heading": "Fontes e contexto",
+          "paragraphs": [
+            "O LGBTQ Nation publicou a reportagem em 19 de outubro de 2026. Erin Reed, jornalista citada no texto, havia descrito o anúncio em 16 de outubro. As acusações dos panfletos foram atribuídas à campanha de Miller-Meeks."
           ]
         }
       ]

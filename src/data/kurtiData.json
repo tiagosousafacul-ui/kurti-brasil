@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "shortDate": "20 OUT 2026",
-    "updatedAt": "20 out, 10h",
+    "shortDate": "21 OUT 2026",
+    "updatedAt": "21 out, 09h",
     "priceCheckedAt": "07/09/2026"
   },
   "navigation": [
@@ -58,6 +58,19 @@
     }
   ],
   "stories": [
+    {
+      "id": "projeto-politica-incentivo-paradas-orgulho-2026",
+      "publishedAt": "2026-10-20T16:47:00-03:00",
+      "category": "Notícias",
+      "sectionId": "noticias",
+      "title": "Projeto propõe política nacional de incentivo às Paradas do Orgulho",
+      "summary": "O PL 3.298/2026, da deputada Erika Hilton (Psol-SP), propõe criar uma política nacional de incentivo às Paradas do Orgulho LGBTQIA+ e incluir o fomento a esses eventos entre as ações culturais da Lei Aldir Blanc. A proposta ainda está em análise na Câmara e prevê diretrizes para apoiar paradas, marchas e organizações da sociedade civil.",
+      "dateLabel": "20 OUT • BRASIL",
+      "source": "Agência Câmara de Notícias",
+      "sourceUrl": "https://www.camara.leg.br/noticias/1309845-projeto-cria-politica-nacional-de-incentivo-as-paradas-do-orgulho-lgbtqia",
+      "tone": "violet",
+      "artMark": "ORGULHO"
+    },
     {
       "id": "christina-bohannan-responde-ataques-anti-trans-iowa-2026",
       "publishedAt": "2026-10-19T18:13:00-03:00",
@@ -1182,6 +1195,31 @@
     }
   ],
   "fullArticles": {
+    "projeto-politica-incentivo-paradas-orgulho-2026": {
+      "readingTime": "3 min de leitura",
+      "body": [
+        "O Projeto de Lei 3.298/2026, de autoria da deputada Erika Hilton (Psol-SP), propõe instituir a Política Nacional de Incentivo às Paradas de Orgulho LGBTQIA+. A Agência Câmara de Notícias publicou a proposta em 20 de outubro de 2026.",
+        "Segundo a Câmara, o projeto também altera a Lei Aldir Blanc para incluir o fomento às Paradas do Orgulho entre as ações culturais previstas na legislação. O texto propõe diretrizes para reconhecer esses eventos como manifestações culturais e apoiar sua realização.",
+        "Entre os objetivos descritos estão promover cidadania, participação social e visibilidade LGBTQIA+, apoiar paradas e marchas voltadas aos direitos humanos e fortalecer coletivos, movimentos e organizações da sociedade civil que organizam as manifestações.",
+        "A proposta ainda não é lei. Conforme a Agência Câmara, ela será analisada pelas comissões de Cultura; de Direitos Humanos, Minorias e Igualdade Racial; de Finanças e Tributação; e de Constituição e Justiça e de Cidadania. Por tramitar em caráter conclusivo, ainda precisa passar pela Câmara e, em seguida, pelo Senado."
+      ],
+      "sections": [
+        {
+          "heading": "O que o projeto propõe",
+          "bullets": [
+            "Criar uma política nacional de incentivo às Paradas do Orgulho LGBTQIA+.",
+            "Incluir o fomento a esses eventos nas ações culturais previstas pela Lei Aldir Blanc.",
+            "Estabelecer diretrizes para apoiar paradas, marchas e organizações da sociedade civil."
+          ]
+        },
+        {
+          "heading": "Tramitação",
+          "paragraphs": [
+            "O PL 3.298/2026 está em análise na Câmara dos Deputados e ainda não foi aprovado. A Agência Câmara informa que a proposta seguirá para análise das comissões competentes; para virar lei, também precisa ser aprovada pelo Senado."
+          ]
+        }
+      ]
+    },
     "trump-compartilha-anuncio-anti-trans-annie-andrews-2026": {
       "readingTime": "3 min de leitura",
       "body": [

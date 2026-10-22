@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "shortDate": "21 OUT 2026",
-    "updatedAt": "21 out, 09h",
+    "shortDate": "22 OUT 2026",
+    "updatedAt": "22 out, 12h",
     "priceCheckedAt": "07/09/2026"
   },
   "navigation": [
@@ -58,6 +58,19 @@
     }
   ],
   "stories": [
+    {
+      "id": "suprema-corte-mantem-bloqueio-cuidados-trans-presidios-2026",
+      "publishedAt": "2026-10-21T12:26:12-03:00",
+      "category": "Notícias",
+      "sectionId": "noticias",
+      "title": "Suprema Corte mantém bloqueio a restrições de cuidados para pessoas trans presas",
+      "summary": "A Suprema Corte dos Estados Unidos negou o pedido emergencial do governo Trump para suspender a decisão que impede a aplicação imediata de novas restrições a cuidados médicos de pessoas trans em prisões federais. A ordem mantém o bloqueio judicial enquanto o processo continua; não é uma decisão final sobre o mérito do caso.",
+      "dateLabel": "21 OUT • EUA",
+      "source": "Associated Press; Suprema Corte dos EUA",
+      "sourceUrl": "https://apnews.com/article/supreme-court-transgender-inmates-trump-0b46a5cc302e1c8bcd292d32533e9a35",
+      "tone": "blue",
+      "artMark": "SCOTUS"
+    },
     {
       "id": "projeto-politica-incentivo-paradas-orgulho-2026",
       "publishedAt": "2026-10-20T16:47:00-03:00",
@@ -1195,6 +1208,31 @@
     }
   ],
   "fullArticles": {
+    "suprema-corte-mantem-bloqueio-cuidados-trans-presidios-2026": {
+      "readingTime": "3 min de leitura",
+      "body": [
+        "Em 21 de outubro de 2026, a Suprema Corte dos Estados Unidos negou um pedido emergencial do governo federal para suspender uma decisão judicial que bloqueia a aplicação de novas restrições a cuidados médicos de pessoas trans sob custódia em prisões federais.",
+        "O registro oficial do caso 26A416 confirma que o pedido de suspensão foi negado. Os juízes Clarence Thomas e Samuel Alito teriam concedido a suspensão. A decisão mantém em vigor, por enquanto, o bloqueio determinado por instâncias inferiores.",
+        "Segundo a Associated Press, a política do Bureau of Prisons pretendia interromper cirurgias, reduzir gradualmente o uso de hormônios e encerrar acomodações sociais, como maquiagem e perucas. A medida também previa a continuidade de serviços de saúde mental.",
+        "A ordem da Suprema Corte trata apenas do pedido para que a política pudesse valer imediatamente enquanto a disputa segue nos tribunais. Ela não decide em caráter definitivo se as restrições são legais. O processo ainda será analisado nas instâncias inferiores."
+      ],
+      "sections": [
+        {
+          "heading": "O que a Suprema Corte decidiu",
+          "bullets": [
+            "Negou o pedido emergencial do governo para suspender a decisão que bloqueia a aplicação imediata da política.",
+            "A ordem oficial registra que os juízes Clarence Thomas e Samuel Alito teriam concedido a suspensão.",
+            "O bloqueio judicial permanece em vigor enquanto o processo continua."
+          ]
+        },
+        {
+          "heading": "O que segue pendente",
+          "paragraphs": [
+            "A decisão não é um julgamento final sobre a legalidade das restrições. A disputa continuará nas instâncias inferiores. A AP relata que a política do Bureau of Prisons afetaria tratamentos médicos e acomodações sociais de pessoas trans em prisões federais."
+          ]
+        }
+      ]
+    },
     "projeto-politica-incentivo-paradas-orgulho-2026": {
       "readingTime": "3 min de leitura",
       "body": [

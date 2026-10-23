@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "shortDate": "22 OUT 2026",
-    "updatedAt": "22 out, 12h",
+    "shortDate": "23 OUT 2026",
+    "updatedAt": "23 out, 13h",
     "priceCheckedAt": "07/09/2026"
   },
   "navigation": [
@@ -58,6 +58,19 @@
     }
   ],
   "stories": [
+    {
+      "id": "outyouth-reconstroi-centro-jovens-lgbtq-austin-2026",
+      "publishedAt": "2026-10-23T09:33:00-04:00",
+      "category": "Notícias",
+      "sectionId": "noticias",
+      "title": "OutYouth reconstrói espaço de acolhimento para jovens LGBTQIA+ no Texas",
+      "summary": "Após um vazamento deixar sua antiga sede inabitável em 2024, a organização OutYouth está reconstruindo o Little Blue Bungalow, em Austin, no mesmo terreno. O plano prevê um espaço maior e a ampliação de serviços para jovens LGBTQIA+; as metas de área e equipe são da própria organização.",
+      "dateLabel": "23 OUT • EUA",
+      "source": "LGBTQ Nation; OutYouth",
+      "sourceUrl": "https://www.lgbtqnation.com/2026/10/the-oldest-lgbtq-nonprofit-in-texas-lost-its-home-base-its-building-a-bigger-better-one/",
+      "tone": "violet",
+      "artMark": "AUSTIN"
+    },
     {
       "id": "suprema-corte-mantem-bloqueio-cuidados-trans-presidios-2026",
       "publishedAt": "2026-10-21T12:26:12-03:00",
@@ -1208,6 +1221,37 @@
     }
   ],
   "fullArticles": {
+    "outyouth-reconstroi-centro-jovens-lgbtq-austin-2026": {
+      "readingTime": "3 min de leitura",
+      "body": [
+        "A OutYouth, organização de apoio a jovens LGBTQIA+ no Texas, está reconstruindo sua sede histórica em Austin após um vazamento de água deixar o Little Blue Bungalow inabitável em agosto de 2024. A nova construção será feita no mesmo terreno, onde a entidade mantém seu espaço de convivência desde 1998.",
+        "Em entrevista à LGBTQ Nation, a diretora executiva Jaryn Holbrook disse que o centro oferece a jovens um lugar de acolhimento fora de casa e da escola. A reportagem explica que, durante a recuperação do imóvel, a equipe manteve atividades em outro centro, em formato virtual e por teleatendimento.",
+        "A OutYouth informa que o novo edifício terá 4.500 pés quadrados, ante 1.700 do espaço anterior. Na página da campanha Dream, a organização apresenta como metas até 2030 ampliar sua equipe clínica de seis para 18 profissionais e oferecer programas presenciais para jovens cinco dias por semana, em vez de três.",
+        "A expectativa divulgada pela organização é abrir o novo espaço no outono de 2027. O cronograma e a expansão dos serviços são projeções da OutYouth; não indicam que a construção ou as metas já foram concluídas."
+      ],
+      "sections": [
+        {
+          "heading": "O projeto de reconstrução",
+          "bullets": [
+            "O Little Blue Bungalow, sede da OutYouth desde 1998, ficou inabitável após um vazamento em agosto de 2024.",
+            "A nova sede será construída no mesmo terreno em Austin.",
+            "A organização prevê um prédio de 4.500 pés quadrados, em comparação aos 1.700 do espaço anterior."
+          ]
+        },
+        {
+          "heading": "Metas e prazo",
+          "paragraphs": [
+            "A OutYouth informa que pretende ampliar sua equipe clínica de seis para 18 profissionais e passar de três para cinco dias semanais de atividades para jovens até 2030. A campanha da organização indica abertura planejada para o outono de 2027. São metas e previsões da entidade."
+          ]
+        },
+        {
+          "heading": "Fontes",
+          "paragraphs": [
+            "A LGBTQ Nation publicou a reportagem após entrevistar a diretora executiva Jaryn Holbrook. Os dados sobre dimensões, equipe e cronograma foram conferidos na campanha oficial Dream da OutYouth."
+          ]
+        }
+      ]
+    },
     "suprema-corte-mantem-bloqueio-cuidados-trans-presidios-2026": {
       "readingTime": "3 min de leitura",
       "body": [

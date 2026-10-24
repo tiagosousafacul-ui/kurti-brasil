@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "shortDate": "23 OUT 2026",
-    "updatedAt": "23 out, 13h",
+    "shortDate": "24 OUT 2026",
+    "updatedAt": "24 out, 10h",
     "priceCheckedAt": "07/09/2026"
   },
   "navigation": [
@@ -58,6 +58,19 @@
     }
   ],
   "stories": [
+    {
+      "id": "propostas-esporte-trans-urnas-colorado-washington-2026",
+      "publishedAt": "2026-10-24T07:02:52-03:00",
+      "category": "Notícias",
+      "sectionId": "noticias",
+      "title": "Colorado e Washington levam propostas sobre esporte trans às urnas",
+      "summary": "Eleitores do Colorado e de Washington decidirão sobre propostas que restringiriam a participação de meninas trans em equipes escolares femininas. A AP informa que é a primeira vez que medidas desse tipo serão submetidas diretamente ao voto popular; elas ainda são propostas, não leis em vigor.",
+      "dateLabel": "24 OUT • EUA",
+      "source": "Associated Press; Guia Eleitoral do Colorado; Secretaria de Estado de Washington",
+      "sourceUrl": "https://apnews.com/article/transgender-sports-ballot-question-washington-colorado-7c11cbd85a5c6da201ef2f12324d38d2",
+      "tone": "violet",
+      "artMark": "URNAS"
+    },
     {
       "id": "outyouth-reconstroi-centro-jovens-lgbtq-austin-2026",
       "publishedAt": "2026-10-23T09:33:00-04:00",
@@ -4187,6 +4200,39 @@
           "heading": "Fontes e contexto",
           "paragraphs": [
             "O LGBTQ Nation publicou a reportagem em 19 de outubro de 2026. Erin Reed, jornalista citada no texto, havia descrito o anúncio em 16 de outubro. As acusações dos panfletos foram atribuídas à campanha de Miller-Meeks."
+          ]
+        }
+      ]
+    },
+    "propostas-esporte-trans-urnas-colorado-washington-2026": {
+      "readingTime": "3 min de leitura",
+      "body": [
+        "Eleitores do Colorado e de Washington vão decidir em novembro sobre iniciativas que restringiriam a participação de meninas trans em equipes esportivas femininas de escolas. A Associated Press relata que é a primeira vez que propostas desse tipo chegam diretamente às urnas nos Estados Unidos.",
+        "No Colorado, a Proposição 134 propõe classificar equipes escolares e universitárias como masculinas, femininas ou mistas, com elegibilidade definida pelo sexo biológico. O guia eleitoral oficial explica que a medida abrangeria esportes escolares do ensino básico à universidade.",
+        "Em Washington, a Iniciativa 638 também propõe limitar a participação em equipes femininas e prevê verificação do sexo por profissional de saúde segundo critérios descritos no texto da iniciativa. A Secretaria de Estado lista a medida e disponibiliza seus documentos eleitorais.",
+        "As duas medidas ainda dependem do voto e não devem ser descritas como regras já vigentes. A AP ouviu apoiadores e opositores, que apresentam argumentos distintos sobre a proposta e seus efeitos para atletas trans e outras estudantes."
+      ],
+      "sections": [
+        {
+          "heading": "O que está em votação",
+          "paragraphs": [
+            "No Colorado, a Proposição 134 estabelece uma classificação de equipes por sexo e regras de elegibilidade para esportes organizados por escolas e associações atléticas. A redação inclui equipes escolares e universitárias.",
+            "Em Washington, a Iniciativa 638 propõe restrições semelhantes para equipes femininas e descreve formas de verificação por profissional de saúde."
+          ]
+        },
+        {
+          "heading": "Propostas, ainda não leis",
+          "paragraphs": [
+            "A AP relata que as medidas foram levadas às cédulas por iniciativa popular, após parlamentares estaduais rejeitarem propostas de proibição. O resultado do voto definirá se cada texto será aprovado; até lá, são propostas eleitorais.",
+            "A reportagem ouviu apoiadores e críticos das medidas. O texto oficial do Colorado detalha os efeitos propostos para equipes e estudantes; a página da Secretaria de Estado de Washington reúne o texto e os materiais eleitorais da iniciativa."
+          ]
+        },
+        {
+          "heading": "Fontes",
+          "paragraphs": [
+            "Associated Press, reportagem publicada em 24 de outubro de 2026.",
+            "Colorado Legislative Council, guia oficial de informações sobre a cédula de 2026, Proposição 134.",
+            "Washington Secretary of State, página oficial de medidas propostas e Iniciativa IL26-638."
           ]
         }
       ]

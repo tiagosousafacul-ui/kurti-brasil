@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "shortDate": "24 OUT 2026",
-    "updatedAt": "24 out, 10h",
+    "shortDate": "26 OUT 2026",
+    "updatedAt": "26 out, 11h",
     "priceCheckedAt": "07/09/2026"
   },
   "navigation": [
@@ -58,6 +58,19 @@
     }
   ],
   "stories": [
+    {
+      "id": "ativistas-lgbt-brasilia-receios-eleicao-2026",
+      "publishedAt": "2026-10-25T18:51:00-03:00",
+      "category": "Notícias",
+      "sectionId": "noticias",
+      "title": "Ativistas LGBTQIA+ em Brasília relatam receios durante o segundo turno",
+      "summary": "Em reportagem publicada no dia da votação, a Agência de Notícias CEUB ouviu pessoas LGBTQIA+ que participaram de atos no Distrito Federal. Entrevistados falaram sobre preocupações com violência e possíveis retrocessos de direitos; são percepções pessoais registradas pela publicação, não uma previsão de mudanças já decididas.",
+      "dateLabel": "25 OUT • BRASIL",
+      "source": "Agência de Notícias CEUB; Brasil de Fato",
+      "sourceUrl": "https://agenciadenoticias.uniceub.br/cidadania-e-diversidade/comunidade-lgbt-manifesta-receio-de-perda-direitos-apos-eleicoes/",
+      "tone": "violet",
+      "artMark": "BRASÍLIA"
+    },
     {
       "id": "propostas-esporte-trans-urnas-colorado-washington-2026",
       "publishedAt": "2026-10-24T07:02:52-03:00",
@@ -4233,6 +4246,36 @@
             "Associated Press, reportagem publicada em 24 de outubro de 2026.",
             "Colorado Legislative Council, guia oficial de informações sobre a cédula de 2026, Proposição 134.",
             "Washington Secretary of State, página oficial de medidas propostas e Iniciativa IL26-638."
+          ]
+        }
+      ]
+    },
+    "ativistas-lgbt-brasilia-receios-eleicao-2026": {
+      "readingTime": "3 min de leitura",
+      "body": [
+        "Em reportagem publicada em 25 de outubro, a Agência de Notícias CEUB ouviu pessoas LGBTQIA+ que participaram de atos no Distrito Federal durante o segundo turno das eleições. Os entrevistados relataram preocupações com a possibilidade de aumento da violência e de retrocessos em direitos, caso o candidato Flávio Bolsonaro vencesse a disputa.",
+        "A matéria registra falas individuais de participantes e descreve reivindicações por direitos trabalhistas, educação pública e combate à LGBTfobia. Os temores citados são opiniões dos entrevistados, não fatos sobre mudanças legais já ocorridas.",
+        "A cobertura independente do Brasil de Fato sobre a mobilização política em Brasília na véspera da votação também registrou discursos em defesa dos direitos LGBT+ entre as pautas do ato. Esse contexto ajuda a situar a presença da pauta nos eventos, mas não confirma as experiências individuais relatadas pela Agência CEUB."
+      ],
+      "sections": [
+        {
+          "heading": "O que a reportagem ouviu",
+          "paragraphs": [
+            "A Agência CEUB conversou com participantes que disseram temer violência e possíveis perdas de direitos. A publicação também descreve reivindicações por educação pública, direitos trabalhistas e enfrentamento à LGBTfobia.",
+            "As falas são apresentadas como opiniões e experiências das pessoas entrevistadas. Elas não representam, por si só, uma pesquisa de opinião nem uma previsão de política pública."
+          ]
+        },
+        {
+          "heading": "Contexto dos atos",
+          "paragraphs": [
+            "Em uma matéria publicada em 24 de outubro, o Brasil de Fato noticiou que o ato Bota pra Virar, em Brasília, incluiu discursos em defesa dos direitos LGBT+, além de pautas de educação pública e meio ambiente."
+          ]
+        },
+        {
+          "heading": "Fontes",
+          "paragraphs": [
+            "Agência de Notícias CEUB, reportagem de Manuela Mendonça de Mello, publicada em 25/10/2026 às 18h51. O projeto de jornalismo é produzido por estudantes e tem supervisão editorial indicada no expediente.",
+            "Brasil de Fato, cobertura do ato Bota pra Virar em Brasília, publicada em 24/10/2026."
           ]
         }
       ]

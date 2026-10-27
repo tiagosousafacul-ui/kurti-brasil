@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "shortDate": "26 OUT 2026",
-    "updatedAt": "26 out, 11h",
+    "shortDate": "27 OUT 2026",
+    "updatedAt": "27 out, 14h",
     "priceCheckedAt": "07/09/2026"
   },
   "navigation": [
@@ -58,6 +58,19 @@
     }
   ],
   "stories": [
+    {
+      "id": "mensagem-alegada-a-deputada-trans-colorado-2026",
+      "publishedAt": "2026-10-26T16:00:00-03:00",
+      "category": "Notícias",
+      "sectionId": "noticias",
+      "title": "Deputada trans do Colorado relata e-mail com ataques ligado a proposta esportiva",
+      "summary": "A LGBTQ Nation, citando apuração do Denver Westword, relata que a deputada trans Brianna Titone recebeu uma mensagem atribuída a Rich Guggenheim, apoiador de uma iniciativa sobre esportes escolares. O texto diz que ele não confirmou nem negou a autoria; a matéria atribui as informações às publicações e à parlamentar.",
+      "dateLabel": "26 OUT • EUA",
+      "source": "LGBTQ Nation; Denver Westword",
+      "sourceUrl": "https://www.lgbtqnation.com/2026/10/ive-got-all-kinds-of-slurs-gay-republican-allegedly-sends-hate-filled-message-to-trans-lawmaker/",
+      "tone": "violet",
+      "artMark": "COLORADO"
+    },
     {
       "id": "ativistas-lgbt-brasilia-receios-eleicao-2026",
       "publishedAt": "2026-10-25T18:51:00-03:00",
@@ -4276,6 +4289,38 @@
           "paragraphs": [
             "Agência de Notícias CEUB, reportagem de Manuela Mendonça de Mello, publicada em 25/10/2026 às 18h51. O projeto de jornalismo é produzido por estudantes e tem supervisão editorial indicada no expediente.",
             "Brasil de Fato, cobertura do ato Bota pra Virar em Brasília, publicada em 24/10/2026."
+          ]
+        }
+      ]
+    },
+    "mensagem-alegada-a-deputada-trans-colorado-2026": {
+      "readingTime": "3 min de leitura",
+      "body": [
+        "A LGBTQ Nation publicou em 26 de outubro uma reportagem sobre um e-mail de 7 de outubro que a deputada estadual trans Brianna Titone, do Colorado, disse ter recebido. A mensagem foi atribuída a Rich Guggenheim, um dos apoiadores da Proposição 134, iniciativa que propõe regras de participação em esportes escolares e universitários no estado.",
+        "A reportagem da LGBTQ Nation se baseia em apuração anterior do Denver Westword, que afirma ter examinado a mensagem. Segundo os veículos, o e-mail continha ataques transfóbicos, usava o nome anterior de Titone e a tratava no masculino. Para evitar reproduzir a agressão, esta matéria não transcreve os insultos.",
+        "O Westword informou que Guggenheim não confirmou nem negou a autoria da correspondência e respondeu ao jornal a partir do mesmo endereço eletrônico usado na mensagem. Portanto, a autoria é apresentada aqui como alegação reportada, não como fato confirmado pelo remetente.",
+        "A Proposição 134 é uma proposta eleitoral, não uma lei em vigor. O guia oficial do Colorado descreve mudanças que seriam aplicadas a equipes esportivas escolares e universitárias se a medida fosse aprovada."
+      ],
+      "sections": [
+        {
+          "heading": "O que foi relatado",
+          "paragraphs": [
+            "Titone disse ao Westword que recebeu a mensagem. O jornal afirma que revisou o e-mail datado de 7 de outubro e que a resposta de Guggenheim veio do mesmo endereço eletrônico. Ele não confirmou nem negou ser o autor.",
+            "A LGBTQ Nation publicou uma reportagem posterior que resume a apuração do Westword e inclui contexto sobre a iniciativa estadual."
+          ]
+        },
+        {
+          "heading": "Contexto da proposta",
+          "paragraphs": [
+            "A Proposição 134 propõe classificar equipes escolares por sexo biológico e restringir a elegibilidade em equipes femininas. O guia eleitoral oficial do Colorado explica que a proposta se aplicaria a esportes K-12 e universitários. A medida ainda é uma proposta submetida aos eleitores."
+          ]
+        },
+        {
+          "heading": "Fontes",
+          "paragraphs": [
+            "LGBTQ Nation, reportagem de Faefyx Collington, publicada em 26/10/2026 às 15h EDT (16h em Brasília), baseada em apuração do Denver Westword.",
+            "Denver Westword, reportagem de Hannah Metzger, publicada em 21/10/2026. O veículo informa que revisou o e-mail e que o remetente respondeu sem confirmar ou negar a autoria.",
+            "Colorado Legislative Council, guia oficial de informações da cédula de 2026, Proposição 134."
           ]
         }
       ]

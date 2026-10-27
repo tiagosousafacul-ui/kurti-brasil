@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "shortDate": "26 OUT 2026",
-    "updatedAt": "26 out, 11h",
+    "shortDate": "27 OUT 2026",
+    "updatedAt": "27 out, 14h",
     "priceCheckedAt": "07/09/2026"
   },
   "navigation": [
@@ -58,6 +58,19 @@
     }
   ],
   "stories": [
+    {
+      "id": "erika-hilton-celebra-vitoria-lula-eleicao-2026",
+      "publishedAt": "2026-10-27T12:00:00-03:00",
+      "category": "Notícias",
+      "sectionId": "noticias",
+      "title": "Erika Hilton celebra reeleição de Lula após vitória nas urnas",
+      "summary": "Em reportagem publicada nesta terça, a LGBTQ Nation destacou a celebração da deputada federal trans Erika Hilton ao lado de Lula após o resultado do segundo turno. O vídeo foi compartilhado por Hilton; o TSE confirmou a reeleição do presidente e o Metrópoles também noticiou a comemoração.",
+      "dateLabel": "27 OUT • BRASIL",
+      "source": "LGBTQ Nation; Metrópoles; Tribunal Superior Eleitoral",
+      "sourceUrl": "https://www.lgbtqnation.com/2026/10/brazilian-president-melts-hearts-celebrating-victory-with-trans-lawmaker-hope-in-latin-america/",
+      "tone": "violet",
+      "artMark": "BRASIL"
+    },
     {
       "id": "ativistas-lgbt-brasilia-receios-eleicao-2026",
       "publishedAt": "2026-10-25T18:51:00-03:00",
@@ -4276,6 +4289,38 @@
           "paragraphs": [
             "Agência de Notícias CEUB, reportagem de Manuela Mendonça de Mello, publicada em 25/10/2026 às 18h51. O projeto de jornalismo é produzido por estudantes e tem supervisão editorial indicada no expediente.",
             "Brasil de Fato, cobertura do ato Bota pra Virar em Brasília, publicada em 24/10/2026."
+          ]
+        }
+      ]
+    },
+    "erika-hilton-celebra-vitoria-lula-eleicao-2026": {
+      "readingTime": "3 min de leitura",
+      "body": [
+        "A LGBTQ Nation publicou nesta terça-feira, 27 de outubro, uma reportagem sobre a celebração da deputada federal Erika Hilton ao lado de Luiz Inácio Lula da Silva após o resultado do segundo turno. Em vídeo publicado nas redes sociais, Hilton aparece com o presidente reeleito e diz que nunca duvidou da vitória.",
+        "O Tribunal Superior Eleitoral confirmou a reeleição de Lula em 25 de outubro. O Metrópoles também noticiou a comemoração de Hilton naquela noite e publicou o vídeo que a deputada compartilhou nas redes.",
+        "A LGBTQ Nation contextualiza o momento como uma demonstração pública de proximidade entre o presidente e uma parlamentar trans. Esse gesto foi celebrado por usuários nas redes, segundo a reportagem; as reações citadas são individuais e não representam toda a comunidade LGBTQIA+."
+      ],
+      "sections": [
+        {
+          "heading": "A comemoração",
+          "paragraphs": [
+            "A reportagem da LGBTQ Nation, publicada em 27/10/2026 às 11h EDT (12h em Brasília), descreve um vídeo da noite da eleição em que Lula e Erika Hilton comemoram juntos. A deputada compartilhou o registro nas redes sociais.",
+            "O Metrópoles publicou a mesma cena em 25 de outubro e informou que Hilton acompanhou a apuração ao lado de Lula e aliados em São Paulo."
+          ]
+        },
+        {
+          "heading": "Resultado eleitoral",
+          "paragraphs": [
+            "O TSE anunciou a reeleição de Lula no segundo turno realizado em 25 de outubro. A confirmação oficial separa o resultado eleitoral das interpretações simbólicas feitas pela imprensa e por usuários nas redes.",
+            "A LGBTQ Nation registrou comentários de pessoas que consideraram significativa a demonstração pública de afeto entre o presidente e uma mulher trans. Essas reações foram atribuídas a usuários específicos, sem generalizá-las para toda a população LGBTQIA+."
+          ]
+        },
+        {
+          "heading": "Fontes",
+          "paragraphs": [
+            "LGBTQ Nation, reportagem de Molly Sprayregen, publicada em 27/10/2026 às 11h EDT (12h em Brasília).",
+            "Metrópoles, reportagem publicada em 25/10/2026 às 21h35 sobre a comemoração e o vídeo compartilhado por Erika Hilton.",
+            "Tribunal Superior Eleitoral, anúncio oficial da reeleição de Luiz Inácio Lula da Silva."
           ]
         }
       ]

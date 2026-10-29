@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "shortDate": "27 OUT 2026",
-    "updatedAt": "27 out, 14h",
+    "shortDate": "29 OUT 2026",
+    "updatedAt": "29 out, 09h",
     "priceCheckedAt": "07/09/2026"
   },
   "navigation": [
@@ -58,6 +58,19 @@
     }
   ],
   "stories": [
+    {
+      "id": "eleitores-trans-dilema-democratas-eleicoes-eua-2026",
+      "publishedAt": "2026-10-28T21:10:00-03:00",
+      "category": "Notícias",
+      "sectionId": "noticias",
+      "title": "Eleitores trans relatam dilema diante de discursos de candidatos democratas",
+      "summary": "Reportagem da The 19th, em parceria com a Uncloseted Media, ouviu eleitores trans e familiares em quatro estados dos EUA. Entrevistados descreveram frustração com falas de candidatos democratas sobre pessoas trans; alguns ainda pretendem votar nesses candidatos por receio de alternativas republicanas. Os relatos são entrevistas, não uma pesquisa representativa.",
+      "dateLabel": "28 OUT • EUA",
+      "source": "The 19th; Uncloseted Media; The Advocate",
+      "sourceUrl": "https://www.unclosetedmedia.com/p/trans-voters-are-disappointed-in",
+      "tone": "violet",
+      "artMark": "EUA"
+    },
     {
       "id": "erika-hilton-celebra-vitoria-lula-eleicao-2026",
       "publishedAt": "2026-10-27T12:00:00-03:00",
@@ -4321,6 +4334,36 @@
             "LGBTQ Nation, reportagem de Molly Sprayregen, publicada em 27/10/2026 às 11h EDT (12h em Brasília).",
             "Metrópoles, reportagem publicada em 25/10/2026 às 21h35 sobre a comemoração e o vídeo compartilhado por Erika Hilton.",
             "Tribunal Superior Eleitoral, anúncio oficial da reeleição de Luiz Inácio Lula da Silva."
+          ]
+        }
+      ]
+    },
+    "eleitores-trans-dilema-democratas-eleicoes-eua-2026": {
+      "readingTime": "3 min de leitura",
+      "body": [
+        "A The 19th, em parceria com a Uncloseted Media, entrevistou eleitores trans e familiares em Carolina do Sul, Ohio, Iowa e Texas sobre a postura de candidatos democratas em relação a pessoas trans nas eleições de meio de mandato dos Estados Unidos.",
+        "Os entrevistados relataram frustração com declarações e anúncios de alguns candidatos. Parte deles disse que ainda pretende votar nesses democratas por considerar mais prejudiciais as alternativas republicanas; outras pessoas disseram que deixarão determinadas disputas em branco ou não apoiarão os candidatos.",
+        "Os depoimentos descrevem experiências individuais e não medem a opinião de todos os eleitores trans. A reportagem também registra diferenças entre estados e candidatos, e inclui críticas de grupos LGBTQIA+ às mensagens de campanha.",
+        "A data exibida pela publicação é 28 de outubro de 2026. A The Advocate republicou a reportagem e identificou a parceria editorial da The 19th com a Uncloseted Media."
+      ],
+      "sections": [
+        {
+          "heading": "O que os entrevistados relataram",
+          "paragraphs": [
+            "As conversas registram frustração com mudanças de linguagem e posições de candidatos democratas sobre direitos trans. As decisões de voto variam: algumas pessoas dizem que votarão nos democratas apesar das críticas; outras rejeitam candidatos específicos ou planejam não votar em certas disputas."
+          ]
+        },
+        {
+          "heading": "Escopo da reportagem",
+          "paragraphs": [
+            "O material reúne entrevistas em quatro estados e não é uma pesquisa de opinião representativa. As falas e avaliações são atribuídas às pessoas entrevistadas e à reportagem."
+          ]
+        },
+        {
+          "heading": "Fontes",
+          "paragraphs": [
+            "The 19th, em parceria com a Uncloseted Media: https://www.unclosetedmedia.com/p/trans-voters-are-disappointed-in",
+            "Republicação e confirmação da parceria editorial: The Advocate, https://www.advocate.com/politics/trans-voters-democrats-midterm-elections"
           ]
         }
       ]

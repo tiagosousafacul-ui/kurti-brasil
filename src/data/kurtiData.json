@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "shortDate": "29 OUT 2026",
-    "updatedAt": "29 out, 09h",
+    "shortDate": "30 OUT 2026",
+    "updatedAt": "30 out, 10h",
     "priceCheckedAt": "07/09/2026"
   },
   "navigation": [
@@ -58,6 +58,19 @@
     }
   ],
   "stories": [
+    {
+      "id": "depoimento-liga-grupo-gop-mensagens-jovens-trans-texas-2026",
+      "publishedAt": "2026-10-29T20:14:00-05:00",
+      "category": "Notícias",
+      "sectionId": "noticias",
+      "title": "Depoimento liga grupo republicano a mensagens sobre jovens trans no Texas",
+      "summary": "Segundo depoimento da empresa Infobip relatado pelo Texas Tribune, o Republican Women’s Caucus Fund e um indivíduo identificado como John Braun enviaram mensagens de texto que divulgavam recursos para jovens LGBTQIA+. O grupo negou envolvimento. A reportagem ressalta que ainda não está claro se eles também participaram do envio de panfletos que usavam a identidade de uma organização trans sem autorização.",
+      "dateLabel": "29 OUT • EUA",
+      "source": "The Texas Tribune; KSAT",
+      "sourceUrl": "https://www.texastribune.org/2026/10/29/texas-transgender-texts-sender-republican-caucus/",
+      "tone": "violet",
+      "artMark": "TEXAS"
+    },
     {
       "id": "eleitores-trans-dilema-democratas-eleicoes-eua-2026",
       "publishedAt": "2026-10-28T21:10:00-03:00",
@@ -4364,6 +4377,36 @@
           "paragraphs": [
             "The 19th, em parceria com a Uncloseted Media: https://www.unclosetedmedia.com/p/trans-voters-are-disappointed-in",
             "Republicação e confirmação da parceria editorial: The Advocate, https://www.advocate.com/politics/trans-voters-democrats-midterm-elections"
+          ]
+        }
+      ]
+    },
+    "depoimento-liga-grupo-gop-mensagens-jovens-trans-texas-2026": {
+      "readingTime": "3 min de leitura",
+      "body": [
+        "O Texas Tribune relatou que um depoimento da empresa de mensagens Infobip, tornado público por ordem de um juiz do Condado de Travis, identificou o Republican Women’s Caucus Fund e uma pessoa chamada John Braun como remetentes de mensagens de texto sobre recursos para jovens LGBTQIA+ no Texas.",
+        "As mensagens enviadas em outubro direcionavam usuários a materiais da Transgender Education Network of Texas (TENT), embora a organização afirme não ter relação com a campanha. A TENT havia pedido à Justiça que identificasse os clientes da Infobip.",
+        "Uma porta-voz do Republican Women’s Caucus Fund negou que o grupo tenha autorizado, financiado, dirigido ou participado do envio das mensagens. Essa negativa também foi registrada pelo Texas Tribune.",
+        "A identidade de quem enviou os panfletos físicos intitulados Texas Transgender Student Union não foi estabelecida pelo depoimento sobre as mensagens. O Texas Tribune informou que ainda não estava claro se o fundo ou Braun também participaram do envio desses materiais. A cobertura da KSAT confirma o contexto das ações judiciais e a distinção entre os textos e os panfletos."
+      ],
+      "sections": [
+        {
+          "heading": "O que o depoimento aponta",
+          "paragraphs": [
+            "Segundo o depoimento da Infobip descrito pelo Texas Tribune, o Republican Women’s Caucus Fund e uma pessoa identificada como John Braun foram associados ao envio das mensagens de texto. O grupo negou envolvimento; a informação é atribuída ao depoimento e a reportagem registra a contestação."
+          ]
+        },
+        {
+          "heading": "Textos e panfletos são apurações distintas",
+          "paragraphs": [
+            "As mensagens direcionavam a materiais da TENT, que diz não ter participado do envio. Já a identidade de quem enviou os panfletos físicos permanece sem confirmação. O Texas Tribune afirmou que não se sabe se os mesmos remetentes dos textos estão ligados aos panfletos."
+          ]
+        },
+        {
+          "heading": "Fontes",
+          "paragraphs": [
+            "The Texas Tribune, reportagem publicada em 29 de outubro de 2026: https://www.texastribune.org/2026/10/29/texas-transgender-texts-sender-republican-caucus/",
+            "KSAT, cobertura do processo e do contexto dos panfletos e mensagens: https://www.ksat.com/news/local/2026/10/29/what-we-know-about-the-group-behind-unsolicited-mail-from-alleged-texas-transgender-student-group/"
           ]
         }
       ]

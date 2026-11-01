@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "shortDate": "30 OUT 2026",
-    "updatedAt": "30 out, 10h",
+    "shortDate": "1 NOV 2026",
+    "updatedAt": "1 nov, 07h",
     "priceCheckedAt": "07/09/2026"
   },
   "navigation": [
@@ -58,6 +58,19 @@
     }
   ],
   "stories": [
+    {
+      "id": "lider-democrata-iowa-recusa-voto-turek-anuncio-trans-2026",
+      "publishedAt": "2026-10-31T18:20:00Z",
+      "category": "Notícias",
+      "sectionId": "noticias",
+      "title": "Dirigente democrata diz que não votará em candidato ao Senado por anúncio sobre pessoas trans",
+      "summary": "Kathy Winter, presidente do Partido Democrata no condado de Osceola, em Iowa, disse que não votará no candidato Josh Turek após um anúncio sobre participação de pessoas trans no esporte e cobertura de saúde. Turek também afirmou no anúncio que nenhum habitante do estado deveria sofrer discriminação. A direção estadual do partido defendeu o candidato; a One Iowa Action condenou a peça.",
+      "dateLabel": "31 OUT • EUA",
+      "source": "The Washington Post; One Iowa Action",
+      "sourceUrl": "https://www.washingtonpost.com/politics/2026/10/31/josh-turek-faces-criticism-after-ad-opposing-taxpayers-paying-sex-changes/",
+      "tone": "violet",
+      "artMark": "IOWA"
+    },
     {
       "id": "depoimento-liga-grupo-gop-mensagens-jovens-trans-texas-2026",
       "publishedAt": "2026-10-29T20:14:00-05:00",
@@ -4407,6 +4420,36 @@
           "paragraphs": [
             "The Texas Tribune, reportagem publicada em 29 de outubro de 2026: https://www.texastribune.org/2026/10/29/texas-transgender-texts-sender-republican-caucus/",
             "KSAT, cobertura do processo e do contexto dos panfletos e mensagens: https://www.ksat.com/news/local/2026/10/29/what-we-know-about-the-group-behind-unsolicited-mail-from-alleged-texas-transgender-student-group/"
+          ]
+        }
+      ]
+    },
+    "lider-democrata-iowa-recusa-voto-turek-anuncio-trans-2026": {
+      "readingTime": "3 min de leitura",
+      "body": [
+        "O Washington Post informou que Kathy Winter, presidente do Partido Democrata no condado de Osceola, Iowa, disse que não votará no candidato democrata ao Senado Josh Turek por causa de um anúncio recente sobre pessoas trans.",
+        "Na peça, Turek disse que nenhum habitante de Iowa deveria sofrer discriminação, mas se opôs à participação de mulheres trans em competições esportivas femininas e ao uso de recursos públicos para tratamentos que chamou de “sex changes”. Winter afirmou que a posição conflita com a plataforma estadual democrata, que se opõe a restrições a cuidados de saúde para pessoas trans.",
+        "A One Iowa Action, organização de defesa dos direitos LGBTQIA+, publicou uma declaração condenando o anúncio. O partido estadual e outros democratas defenderam Turek, embora alguns tenham dito discordar da peça.",
+        "A reportagem descreve a posição de uma dirigente local e de organizações sobre um anúncio de campanha. Ela não representa uma decisão oficial do Partido Democrata de Iowa nem uma pesquisa sobre eleitores."
+      ],
+      "sections": [
+        {
+          "heading": "A decisão de Kathy Winter",
+          "paragraphs": [
+            "A presidente do Partido Democrata no condado de Osceola declarou que não votará em Josh Turek por causa de suas posições expressas no anúncio. A reportagem atribui a declaração a Winter e registra que ela considera a mensagem contrária à plataforma estadual do partido."
+          ]
+        },
+        {
+          "heading": "Reações ao anúncio",
+          "paragraphs": [
+            "A One Iowa Action condenou a peça em uma declaração pública. A liderança estadual democrata e outros integrantes do partido defenderam Turek; um candidato à Câmara estadual citado pelo Washington Post disse discordar do anúncio, mas que ainda apoiaria o candidato ao Senado."
+          ]
+        },
+        {
+          "heading": "Fontes",
+          "paragraphs": [
+            "The Washington Post, reportagem publicada em 31 de outubro de 2026: https://www.washingtonpost.com/politics/2026/10/31/josh-turek-faces-criticism-after-ad-opposing-taxpayers-paying-sex-changes/",
+            "One Iowa Action, declaração pública sobre anúncios políticos anti-trans: https://oneiowaaction.org/one-iowa-action-statement-on-anti-trans-political-ads/"
           ]
         }
       ]

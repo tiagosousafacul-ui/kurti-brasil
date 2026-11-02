@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "shortDate": "1 NOV 2026",
-    "updatedAt": "1 nov, 07h",
+    "shortDate": "2 NOV 2026",
+    "updatedAt": "2 nov, 10h",
     "priceCheckedAt": "07/09/2026"
   },
   "navigation": [
@@ -58,6 +58,19 @@
     }
   ],
   "stories": [
+    {
+      "id": "grupo-republicano-contesta-vinculo-mensagens-trans-texas-2026",
+      "publishedAt": "2026-11-01T16:10:57Z",
+      "category": "Notícias",
+      "sectionId": "noticias",
+      "title": "Grupo republicano contesta vínculo com campanha de mensagens sobre pessoas trans",
+      "summary": "Após um depoimento da Infobip associar um número ligado ao Republican Women’s Caucus Fund a mensagens sobre jovens LGBTQIA+ no Texas, o advogado do grupo afirmou que não havia relação contratual com a empresa e contestou a atribuição. A Infobip disse que apenas encaminhou mensagens de clientes. A TENT também afirmou que ainda não está claro aonde leva a associação; os responsáveis finais continuam sem confirmação.",
+      "dateLabel": "1 NOV • EUA",
+      "source": "Houston Chronicle; Texas Tribune",
+      "sourceUrl": "https://www.houstonchronicle.com/politics/election/2026/article/trans-mailers-group-22505161.php",
+      "tone": "blue",
+      "artMark": "TEXAS"
+    },
     {
       "id": "lider-democrata-iowa-recusa-voto-turek-anuncio-trans-2026",
       "publishedAt": "2026-10-31T18:20:00Z",
@@ -4450,6 +4463,36 @@
           "paragraphs": [
             "The Washington Post, reportagem publicada em 31 de outubro de 2026: https://www.washingtonpost.com/politics/2026/10/31/josh-turek-faces-criticism-after-ad-opposing-taxpayers-paying-sex-changes/",
             "One Iowa Action, declaração pública sobre anúncios políticos anti-trans: https://oneiowaaction.org/one-iowa-action-statement-on-anti-trans-political-ads/"
+          ]
+        }
+      ]
+    },
+    "grupo-republicano-contesta-vinculo-mensagens-trans-texas-2026": {
+      "readingTime": "3 min de leitura",
+      "body": [
+        "Em atualização publicada em 1º de novembro, o Houston Chronicle informou que o advogado do Republican Women’s Caucus Fund contestou a associação do grupo às mensagens enviadas a eleitores no Texas. O advogado disse que o fundo não tinha relação contratual com a Infobip e questionou por que um número associado ao grupo apareceu no processo.",
+        "A Infobip afirmou que não criou as mensagens: recebeu conteúdo de clientes e o encaminhou a operadoras. A empresa disse que cumpriu uma ordem judicial para identificar o cliente relacionado aos números, mas não divulgou publicamente o nome sob proteção de confidencialidade.",
+        "A advogada da Transgender Education Network of Texas (TENT), que pediu a identificação dos remetentes, disse que os documentos mencionaram o fundo, mas que ainda não está claro aonde essa associação leva. Ela levantou a possibilidade de fornecedores compartilhados e disse que a organização ainda não sabe quem estava por trás da campanha.",
+        "A atualização complementa a reportagem anterior do Texas Tribune sobre o depoimento da Infobip. A identificação de um número associado ao fundo não estabelece, por si só, quem encomendou ou financiou as mensagens."
+      ],
+      "sections": [
+        {
+          "heading": "O que o grupo contesta",
+          "paragraphs": [
+            "O advogado do Republican Women’s Caucus Fund disse ao Houston Chronicle que o grupo não tinha contrato com a Infobip e contestou a precisão e a atribuição da informação. O fundo nega participação na campanha."
+          ]
+        },
+        {
+          "heading": "O que permanece sem confirmação",
+          "paragraphs": [
+            "A Infobip afirmou que apenas encaminhou mensagens de clientes. A advogada da TENT disse que não está claro o que a associação documental ao fundo significa e que ainda não se sabe quem foi o responsável final pela campanha."
+          ]
+        },
+        {
+          "heading": "Fontes",
+          "paragraphs": [
+            "Houston Chronicle, atualização publicada em 1º de novembro de 2026: https://www.houstonchronicle.com/politics/election/2026/article/trans-mailers-group-22505161.php",
+            "Texas Tribune, reportagem anterior sobre o depoimento da Infobip: https://www.texastribune.org/2026/10/29/texas-transgender-texts-sender-republican-caucus/"
           ]
         }
       ]

@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "shortDate": "2 NOV 2026",
-    "updatedAt": "2 nov, 10h",
+    "shortDate": "4 NOV 2026",
+    "updatedAt": "4 nov, 11h",
     "priceCheckedAt": "07/09/2026"
   },
   "navigation": [
@@ -58,6 +58,19 @@
     }
   ],
   "stories": [
+    {
+      "id": "parada-preta-lgbt-ribeirao-2026",
+      "publishedAt": "2026-11-03T13:34:00-03:00",
+      "category": "Notícias",
+      "sectionId": "noticias",
+      "title": "Parada Preta LGBT reúne cultura negra e LGBTQIA+ em Ribeirão Preto",
+      "summary": "A Prefeitura de Ribeirão Preto anunciou a 5ª edição da Parada Preta LGBT para 8 de novembro, no Espaço Nave. A programação começa às 15h e prevê apresentações artísticas, música, performances e duas oficinas culturais.",
+      "dateLabel": "3 NOV • BRASIL",
+      "source": "Prefeitura de Ribeirão Preto",
+      "sourceUrl": "https://www.ribeiraopreto.sp.gov.br/portal/noticia/parada-preta-lgbt-celebra-a-diversidade-e-o-combate-ao-preconceito-em-ribeirao-preto",
+      "tone": "violet",
+      "artMark": "RIBEIRÃO"
+    },
     {
       "id": "grupo-republicano-contesta-vinculo-mensagens-trans-texas-2026",
       "publishedAt": "2026-11-01T16:10:57Z",
@@ -4493,6 +4506,37 @@
           "paragraphs": [
             "Houston Chronicle, atualização publicada em 1º de novembro de 2026: https://www.houstonchronicle.com/politics/election/2026/article/trans-mailers-group-22505161.php",
             "Texas Tribune, reportagem anterior sobre o depoimento da Infobip: https://www.texastribune.org/2026/10/29/texas-transgender-texts-sender-republican-caucus/"
+          ]
+        }
+      ]
+    },
+    "parada-preta-lgbt-ribeirao-2026": {
+      "readingTime": "2 min de leitura",
+      "body": [
+        "A Prefeitura de Ribeirão Preto anunciou a realização da 5ª edição da Parada Preta LGBT no domingo, 8 de novembro de 2026. Segundo o comunicado municipal, o evento valoriza a cultura negra e LGBTQIA+ e tem como tema “Preconceito se combate com Orgulho!”.",
+        "A programação começa às 15h, no Espaço Nave, com apresentações artísticas previstas para as 16h. A prefeitura lista música, performances e manifestações culturais entre as atividades, além de duas oficinas: uma sobre produção cultural e outra sobre imagem, portfólio e posicionamento artístico.",
+        "O anúncio cita Samba da Opinião, Ilê Asé Alaketu Ala Otin Toode, Samba do Caçador, DJ Inguila, Icaro Pierce, Victória Bella e Dark X entre as atrações. Naira Poison será a apresentadora, de acordo com a publicação.",
+        "A entrada, eventuais inscrições para as oficinas e outras condições de participação não são detalhadas no comunicado consultado. O endereço informado é Rua Miguel Barachini, 53, em Ribeirão Preto."
+      ],
+      "sections": [
+        {
+          "heading": "Data e programação",
+          "bullets": [
+            "Domingo, 8 de novembro de 2026, a partir das 15h; apresentações artísticas às 16h.",
+            "Local: Espaço Nave, Rua Miguel Barachini, 53, Ribeirão Preto (SP).",
+            "A prefeitura informa música, performances e duas oficinas culturais."
+          ]
+        },
+        {
+          "heading": "Cultura e visibilidade",
+          "paragraphs": [
+            "A Prefeitura de Ribeirão Preto apresenta a Parada Preta LGBT como iniciativa de valorização das expressões culturais negras e LGBTQIA+ e de promoção do respeito à diversidade."
+          ]
+        },
+        {
+          "heading": "Fonte",
+          "paragraphs": [
+            "As informações sobre data, local, atrações e atividades vêm do anúncio publicado pela Prefeitura de Ribeirão Preto em 3 de novembro de 2026."
           ]
         }
       ]

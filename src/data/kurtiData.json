@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "shortDate": "4 NOV 2026",
-    "updatedAt": "4 nov, 11h",
+    "shortDate": "5 NOV 2026",
+    "updatedAt": "5 nov, 12h",
     "priceCheckedAt": "07/09/2026"
   },
   "navigation": [
@@ -58,6 +58,32 @@
     }
   ],
   "stories": [
+    {
+      "id": "entidades-lgbt-vacinacao-mpox-df-2026",
+      "publishedAt": "2026-11-04T20:59:00-03:00",
+      "category": "Notícias",
+      "sectionId": "noticias",
+      "title": "Entidades LGBT+ pedem retomada da vacina contra mpox no DF",
+      "summary": "O CentroDH e o Estruturação – Grupo LGBT+ pediram à Secretaria de Saúde do DF e ao MPDFT medidas para restabelecer a vacinação contra mpox. A SES-DF confirmou ao Correio Braziliense que não havia doses disponíveis no DF e informou que tratava do reabastecimento com o Ministério da Saúde.",
+      "dateLabel": "4 NOV • BRASIL",
+      "source": "Correio Braziliense; Brasil de Fato; SES-DF",
+      "sourceUrl": "https://www.correiobraziliense.com.br/cidades-df/2026/11/7533328-entidades-lgbt-cobram-restabelecimento-de-vacinacao-contra-mpox-no-df.html",
+      "tone": "blue",
+      "artMark": "SAÚDE"
+    },
+    {
+      "id": "comissao-aprova-estatuto-pessoa-intersexo-2026",
+      "publishedAt": "2026-11-04T12:12:00-03:00",
+      "category": "Notícias",
+      "sectionId": "noticias",
+      "title": "Comissão da Câmara aprova Estatuto da Pessoa Intersexo",
+      "summary": "A Comissão de Direitos Humanos da Câmara aprovou o substitutivo ao PL 1.318/2025, que propõe regras sobre intervenções médicas, registro civil, atendimento de saúde e reparação. O projeto ainda precisa passar por outras comissões, pelo plenário da Câmara e pelo Senado para virar lei.",
+      "dateLabel": "4 NOV • BRASIL",
+      "source": "Agência Câmara de Notícias; UOL",
+      "sourceUrl": "https://www.camara.leg.br/noticias/1315247-comissao-aprova-estatuto-da-pessoa-intersexo-com-regras-para-cirurgias-registro-e-reparacao",
+      "tone": "violet",
+      "artMark": "INTERSEXO"
+    },
     {
       "id": "parada-preta-lgbt-ribeirao-2026",
       "publishedAt": "2026-11-03T13:34:00-03:00",
@@ -4537,6 +4563,68 @@
           "heading": "Fonte",
           "paragraphs": [
             "As informações sobre data, local, atrações e atividades vêm do anúncio publicado pela Prefeitura de Ribeirão Preto em 3 de novembro de 2026."
+          ]
+        }
+      ]
+    },
+    "entidades-lgbt-vacinacao-mpox-df-2026": {
+      "readingTime": "2 min de leitura",
+      "body": [
+        "O Centro Brasiliense de Defesa dos Direitos Humanos (CentroDH) e o Estruturação – Grupo LGBT+ encaminharam pedidos à Secretaria de Saúde do Distrito Federal e ao Ministério Público do DF e Territórios para que sejam tomadas providências sobre a falta de vacinas contra mpox na rede pública.",
+        "O Correio Braziliense informou que a SES-DF confirmou não haver doses disponíveis no momento e que mantinha tratativas com o Ministério da Saúde para receber novos lotes. A secretaria também disse que a vacina é destinada a grupos prioritários definidos pelo Ministério da Saúde e que a aplicação no DF ocorre no Hospital Universitário de Brasília, após avaliação técnica.",
+        "As organizações pediram o restabelecimento da vacinação para os grupos de risco e defenderam ampliar os critérios para pessoas LGBTQIAPN+ com maior exposição epidemiológica, incluindo quem utiliza PrEP. Essa ampliação é uma reivindicação das entidades; não é uma mudança de critérios já anunciada pelo governo.",
+        "O Brasil de Fato também noticiou a iniciativa das organizações e relatou dados da SES-DF sobre casos de mpox no Distrito Federal."
+      ],
+      "sections": [
+        {
+          "heading": "O que pedem as entidades",
+          "bullets": [
+            "CentroDH e Estruturação solicitaram providências à SES-DF e ao MPDFT.",
+            "As organizações também pediram que a Ouvidoria do Ministério Público de Contas fiscalize o estoque e sua gestão.",
+            "A proposta de ampliar critérios de vacinação é uma reivindicação das entidades."
+          ]
+        },
+        {
+          "heading": "Posição da Secretaria de Saúde",
+          "paragraphs": [
+            "A SES-DF confirmou ao Correio Braziliense que não havia doses disponíveis naquele momento e informou que tratava do envio de novos lotes com o Ministério da Saúde. A vacinação no DF é voltada a grupos prioritários e depende de avaliação técnica."
+          ]
+        },
+        {
+          "heading": "Fontes",
+          "paragraphs": [
+            "O Correio Braziliense ouviu a SES-DF e as organizações. O Brasil de Fato também reportou os pedidos dos grupos; os dados e as alegações são atribuídos às respectivas fontes."
+          ]
+        }
+      ]
+    },
+    "comissao-aprova-estatuto-pessoa-intersexo-2026": {
+      "readingTime": "3 min de leitura",
+      "body": [
+        "A Comissão de Direitos Humanos, Minorias e Igualdade Racial da Câmara dos Deputados aprovou, em 4 de novembro, um substitutivo ao Projeto de Lei 1.318/2025, de Duda Salabert (PDT-MG), que institui o Estatuto da Pessoa Intersexo, chamado de Lei Jacob Cristopher. A proposta foi relatada pela deputada Erika Kokay (PT-DF).",
+        "O texto aprovado reúne medidas sobre consentimento em intervenções médicas, registro civil, acesso a exames e acompanhamento no SUS, sigilo de informações, reparação para adultos submetidos a procedimentos sem consentimento na infância e outros direitos. A Agência Câmara relata que procedimentos invasivos e irreversíveis sem consentimento ficam vedados, com exceções previstas para urgências médicas.",
+        "A proposta também estabelece opções para registrar o sexo na Declaração de Nascido Vivo e prevê retificação de prenome e indicação de sexo em cartório sem cirurgia, laudo médico ou autorização judicial. Essas regras são parte do substitutivo aprovado pela comissão; ainda não estão em vigor.",
+        "O projeto segue para análise das comissões de Finanças e Tributação e de Constituição e Justiça e de Cidadania, depois para o Plenário da Câmara e, se aprovado, para o Senado. Só poderá virar lei após aprovação nas duas Casas."
+      ],
+      "sections": [
+        {
+          "heading": "O que a comissão aprovou",
+          "bullets": [
+            "A comissão aprovou o substitutivo ao PL 1.318/2025, relatado por Erika Kokay.",
+            "O texto propõe garantias para consentimento médico, registro civil, saúde, sigilo e reparação.",
+            "A aprovação em comissão não transforma a proposta em lei."
+          ]
+        },
+        {
+          "heading": "Próximos passos",
+          "paragraphs": [
+            "Segundo a Agência Câmara, o texto ainda precisa passar pelas comissões de Finanças e Tributação e de Constituição e Justiça e de Cidadania, pelo Plenário da Câmara e pelo Senado."
+          ]
+        },
+        {
+          "heading": "Fontes",
+          "paragraphs": [
+            "A Agência Câmara detalha o texto aprovado e sua tramitação. O UOL também noticiou a aprovação e confirmou que a proposta continua em análise no Congresso."
           ]
         }
       ]

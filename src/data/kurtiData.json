@@ -79,7 +79,7 @@
       "title": "Ministério da Saúde autoriza compra de até 20 mil doses contra mpox",
       "summary": "O Ministério da Saúde autorizou a aquisição de até 20 mil doses por meio da Opas para reforçar o estoque do SUS; ainda não informou prazo de entrega. Segundo a pasta, a vacinação prioriza pessoas vivendo com HIV com CD4 abaixo de 100 células/mm³; doses remanescentes podem atender outros grupos, incluindo usuários de PrEP.",
       "dateLabel": "5 NOV • BRASIL",
-      "source": "Ministério da Saúde; UOL; Agência Aids",
+      "source": "Ministério da Saúde; UOL",
       "sourceUrl": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/novembro/ministerio-da-saude-autoriza-aquisicao-de-20-mil-doses-da-vacina-contra-mpox-por-meio-da-opas/",
       "tone": "blue",
       "artMark": "SUS"
@@ -4691,7 +4691,7 @@
         "O Ministério da Saúde autorizou a aquisição de até 20 mil doses da vacina contra mpox por meio do Fundo Rotatório da Organização Pan-Americana da Saúde (Opas). Segundo a pasta, a medida busca recompor o estoque estratégico e apoiar a resposta do SUS conforme a situação epidemiológica. A autorização não indica quando as doses serão entregues.",
         "O ministério informou que o Brasil havia confirmado 665 casos de mpox em 2026 até a divulgação do balanço, 94% menos que em 2022, quando foram registrados mais de 10 mil casos. Os números e a comparação são da pasta.",
         "Na estratégia nacional descrita pelo ministério, a vacinação prioriza pessoas vivendo com HIV/aids com contagem de CD4 inferior a 100 células/mm³. Doses remanescentes também podem ser destinadas a pessoas com CD4 abaixo de 200, usuários de PrEP e profissionais de laboratório que manipulam amostras do vírus.",
-        "A Agência Aids e o UOL também noticiaram a autorização e os critérios de vacinação. O anúncio trata da aquisição autorizada; não confirma o cronograma de entrega."
+        "O UOL também noticiou a autorização e os critérios de vacinação. O anúncio trata da aquisição autorizada; não confirma o cronograma de entrega."
       ],
       "sections": [
         {
@@ -4711,7 +4711,7 @@
         {
           "heading": "Fontes",
           "paragraphs": [
-            "O anúncio e os critérios vieram do Ministério da Saúde. A Agência Aids e o UOL publicaram reportagens independentes sobre a autorização e a estratégia."
+            "O anúncio e os critérios vieram do Ministério da Saúde. O UOL também noticiou a autorização e a estratégia de vacinação."
           ]
         }
       ]

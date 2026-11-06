@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "shortDate": "5 NOV 2026",
-    "updatedAt": "5 nov, 12h",
+    "shortDate": "6 NOV 2026",
+    "updatedAt": "6 nov, 8h",
     "priceCheckedAt": "07/09/2026"
   },
   "navigation": [
@@ -58,6 +58,32 @@
     }
   ],
   "stories": [
+    {
+      "id": "mixbrasil-34-festival-programacao-2026",
+      "publishedAt": "2026-11-05T23:00:00-03:00",
+      "category": "Notícias",
+      "sectionId": "noticias",
+      "title": "Festival MixBrasil apresenta 138 filmes em sua 34ª edição",
+      "summary": "A Folha publicou um panorama da 34ª edição do Festival MixBrasil, em São Paulo, de 11 a 22 de novembro. A reportagem destaca 138 filmes de 30 países e de mais de dez estados brasileiros, com histórias queer de diferentes épocas e lugares.",
+      "dateLabel": "5 NOV • BRASIL",
+      "source": "Folha de S.Paulo; Festival MixBrasil",
+      "sourceUrl": "https://guia.folha.uol.com.br/cinema/2026/11/34a-edicao-do-festival-mixbrasil-costura-mosaico-de-historias-queer-de-diferentes-epocas-e-lugares.shtml",
+      "tone": "violet",
+      "artMark": "MIXBRASIL"
+    },
+    {
+      "id": "ministerio-autoriza-20-mil-vacinas-mpox-2026",
+      "publishedAt": "2026-11-05T10:25:00-03:00",
+      "category": "Notícias",
+      "sectionId": "noticias",
+      "title": "Ministério da Saúde autoriza compra de até 20 mil doses contra mpox",
+      "summary": "O Ministério da Saúde autorizou a aquisição de até 20 mil doses por meio da Opas para reforçar o estoque do SUS; ainda não informou prazo de entrega. Segundo a pasta, a vacinação prioriza pessoas vivendo com HIV com CD4 abaixo de 100 células/mm³; doses remanescentes podem atender outros grupos, incluindo usuários de PrEP.",
+      "dateLabel": "5 NOV • BRASIL",
+      "source": "Ministério da Saúde; UOL; Agência Aids",
+      "sourceUrl": "https://www.gov.br/saude/pt-br/assuntos/noticias/2026/novembro/ministerio-da-saude-autoriza-aquisicao-de-20-mil-doses-da-vacina-contra-mpox-por-meio-da-opas/",
+      "tone": "blue",
+      "artMark": "SUS"
+    },
     {
       "id": "entidades-lgbt-vacinacao-mpox-df-2026",
       "publishedAt": "2026-11-04T20:59:00-03:00",
@@ -4625,6 +4651,67 @@
           "heading": "Fontes",
           "paragraphs": [
             "A Agência Câmara detalha o texto aprovado e sua tramitação. O UOL também noticiou a aprovação e confirmou que a proposta continua em análise no Congresso."
+          ]
+        }
+      ]
+    },
+    "mixbrasil-34-festival-programacao-2026": {
+      "readingTime": "2 min de leitura",
+      "body": [
+        "A Folha de S.Paulo publicou em 5 de novembro um panorama da 34ª edição do Festival MixBrasil de Cultura e Diversidade. A mostra está prevista para 11 a 22 de novembro em São Paulo e reúne 138 filmes de 30 países e de mais de dez estados brasileiros, segundo a reportagem.",
+        "O recorte da Folha percorre narrativas queer ambientadas em diferentes períodos e lugares, do contexto da Guerra Civil Espanhola à Paris contemporânea e ao mangue recifense. O Festival MixBrasil apresenta a edição como um evento dedicado à cultura LGBTQIA+ e confirma as datas em seu site.",
+        "Esta notícia resume a apresentação da programação pela imprensa. Para horários, locais e condições de cada sessão, consulte a programação oficial do festival."
+      ],
+      "sections": [
+        {
+          "heading": "A 34ª edição",
+          "bullets": [
+            "O Festival MixBrasil está previsto para 11 a 22 de novembro de 2026, em São Paulo.",
+            "A Folha informa que a seleção reúne 138 filmes de 30 países e mais de dez estados brasileiros.",
+            "O festival é dedicado à cultura LGBTQIA+ e à diversidade."
+          ]
+        },
+        {
+          "heading": "Histórias de diferentes lugares",
+          "paragraphs": [
+            "A reportagem da Folha destaca filmes que atravessam diferentes períodos e cenários, incluindo a Guerra Civil Espanhola, a Paris contemporânea e o mangue recifense."
+          ]
+        },
+        {
+          "heading": "Fontes",
+          "paragraphs": [
+            "A Folha de S.Paulo apresenta o panorama da programação; o site do Festival MixBrasil confirma as datas da edição."
+          ]
+        }
+      ]
+    },
+    "ministerio-autoriza-20-mil-vacinas-mpox-2026": {
+      "readingTime": "2 min de leitura",
+      "body": [
+        "O Ministério da Saúde autorizou a aquisição de até 20 mil doses da vacina contra mpox por meio do Fundo Rotatório da Organização Pan-Americana da Saúde (Opas). Segundo a pasta, a medida busca recompor o estoque estratégico e apoiar a resposta do SUS conforme a situação epidemiológica. A autorização não indica quando as doses serão entregues.",
+        "O ministério informou que o Brasil havia confirmado 665 casos de mpox em 2026 até a divulgação do balanço, 94% menos que em 2022, quando foram registrados mais de 10 mil casos. Os números e a comparação são da pasta.",
+        "Na estratégia nacional descrita pelo ministério, a vacinação prioriza pessoas vivendo com HIV/aids com contagem de CD4 inferior a 100 células/mm³. Doses remanescentes também podem ser destinadas a pessoas com CD4 abaixo de 200, usuários de PrEP e profissionais de laboratório que manipulam amostras do vírus.",
+        "A Agência Aids e o UOL também noticiaram a autorização e os critérios de vacinação. O anúncio trata da aquisição autorizada; não confirma o cronograma de entrega."
+      ],
+      "sections": [
+        {
+          "heading": "Aquisição autorizada",
+          "bullets": [
+            "O Ministério da Saúde autorizou adquirir até 20 mil doses pelo Fundo Rotatório da Opas.",
+            "A pasta não informou prazo de chegada das doses.",
+            "Os números de casos e a redução em relação a 2022 foram atribuídos ao Ministério da Saúde."
+          ]
+        },
+        {
+          "heading": "Quem tem prioridade",
+          "paragraphs": [
+            "Segundo a estratégia divulgada pelo Ministério da Saúde, a vacinação prioriza pessoas vivendo com HIV/aids com CD4 inferior a 100 células/mm³. Doses que sobrarem podem atender outros grupos, entre eles pessoas com CD4 inferior a 200, usuários de PrEP e profissionais de laboratório que manipulam amostras de mpox."
+          ]
+        },
+        {
+          "heading": "Fontes",
+          "paragraphs": [
+            "O anúncio e os critérios vieram do Ministério da Saúde. A Agência Aids e o UOL publicaram reportagens independentes sobre a autorização e a estratégia."
           ]
         }
       ]

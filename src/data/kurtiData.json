@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "shortDate": "6 NOV 2026",
-    "updatedAt": "6 nov, 8h",
+    "shortDate": "7 NOV 2026",
+    "updatedAt": "7 nov, 13h",
     "priceCheckedAt": "07/09/2026"
   },
   "navigation": [
@@ -58,6 +58,19 @@
     }
   ],
   "stories": [
+    {
+      "id": "cbf-apoio-anuario-lgbtfobia-futebol-2026",
+      "publishedAt": "2026-11-07T05:30:00-03:00",
+      "category": "Notícias",
+      "sectionId": "noticias",
+      "title": "CBF não financiará novo anuário sobre LGBTfobia no futebol",
+      "summary": "A CBF informou ao UOL que não financiará o anuário de 2026 do Coletivo de Torcidas Canarinhos LGBTQ+. A entidade afirma que não recebeu projeto formal com escopo aceitável nem prestação de contas detalhada; o coletivo contesta essa justificativa e vê recuo no combate à discriminação.",
+      "dateLabel": "7 NOV • BRASIL",
+      "source": "UOL; Coletivo de Torcidas Canarinhos LGBTQ+",
+      "sourceUrl": "https://www.uol.com.br/esporte/colunas/alicia-klein/2026/11/07/sob-xaud-cbf-retira-apoio-a-anuarios-sobre-lgbtfobia-e-racismo.htm",
+      "tone": "violet",
+      "artMark": "FUTEBOL"
+    },
     {
       "id": "mixbrasil-34-festival-programacao-2026",
       "publishedAt": "2026-11-05T23:00:00-03:00",
@@ -4712,6 +4725,39 @@
           "heading": "Fontes",
           "paragraphs": [
             "O anúncio e os critérios vieram do Ministério da Saúde. O UOL também noticiou a autorização e a estratégia de vacinação."
+          ]
+        }
+      ]
+    },
+    "cbf-apoio-anuario-lgbtfobia-futebol-2026": {
+      "readingTime": "2 min de leitura",
+      "body": [
+        "O Coletivo de Torcidas Canarinhos LGBTQ+ publica desde 2022 um anuário que reúne dados sobre discriminação, inclusão e diversidade no futebol brasileiro. Em reportagem publicada em 7 de novembro, o UOL informou que a Confederação Brasileira de Futebol (CBF) não financiará a edição de 2026.",
+        "Segundo a reportagem, a CBF comunicou ao coletivo que não havia orçamento naquele ano para patrocinar projetos executados por terceiros. Em resposta ao UOL, a entidade afirmou que, após o último aporte, não recebeu do responsável um projeto formal com escopo aceitável nem prestação de contas detalhada dos recursos destinados anteriormente.",
+        "O coletivo negou ter deixado de atender às demandas e disse ver com preocupação o que considera um recuo nas ações de inclusão e combate à discriminação contra pessoas LGBTQ+ no futebol. As versões sobre a justificativa para a interrupção do apoio são atribuídas às partes pela reportagem.",
+        "Em publicação de 24 de outubro, o próprio coletivo informou que a quinta edição, com dados de 2025, foi produzida sem apoio orçamentário ou institucional da CBF. A informação confirma a ausência de apoio àquela edição; não substitui as posições divergentes sobre as tratativas para 2026."
+      ],
+      "sections": [
+        {
+          "heading": "O que foi informado",
+          "bullets": [
+            "O UOL publicou a informação em 7 de novembro de 2026.",
+            "A CBF disse ao veículo que não financiará o anuário de 2026 e apresentou sua justificativa sobre projeto formal e prestação de contas.",
+            "O coletivo contestou a justificativa e manifestou preocupação com o impacto para iniciativas de inclusão."
+          ]
+        },
+        {
+          "heading": "Histórico do anuário",
+          "paragraphs": [
+            "O Coletivo de Torcidas Canarinhos LGBTQ+ informou que a quinta edição, relativa a 2025, foi realizada sem apoio orçamentário ou institucional da CBF.",
+            "As alegações sobre a relação entre o coletivo e a CBF foram atribuídas às respectivas fontes. A reportagem não apresenta uma decisão judicial ou investigação independente sobre a prestação de contas."
+          ]
+        },
+        {
+          "heading": "Fontes",
+          "paragraphs": [
+            "Reportagem de Alicia Klein, publicada pelo UOL em 7 de novembro de 2026.",
+            "Nota do Coletivo de Torcidas Canarinhos LGBTQ+ sobre a quinta edição do anuário, publicada em 24 de outubro de 2026."
           ]
         }
       ]

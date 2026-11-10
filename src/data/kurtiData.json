@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "shortDate": "7 NOV 2026",
-    "updatedAt": "7 nov, 13h",
+    "shortDate": "10 NOV 2026",
+    "updatedAt": "10 nov, 12h",
     "priceCheckedAt": "07/09/2026"
   },
   "navigation": [
@@ -58,6 +58,19 @@
     }
   ],
   "stories": [
+    {
+      "id": "mpf-acao-resolucao-cfm-criancas-intersexo-2026",
+      "publishedAt": "2026-11-09T14:30:00-03:00",
+      "category": "Notícias",
+      "sectionId": "noticias",
+      "title": "MPF questiona resolução do CFM sobre cuidados a crianças intersexo",
+      "summary": "Em reportagem publicada em 9 de novembro, a VEJA repercutiu uma ação civil pública do MPF contra o CFM e a União. O MPF pede a suspensão de trecho da Resolução CFM 2.455/2026; o conselho afirma que a norma prevê consentimento dos responsáveis, assentimento da criança quando possível e limites a cirurgias não urgentes.",
+      "dateLabel": "9 NOV • BRASIL",
+      "source": "VEJA; Ministério Público Federal; Conselho Federal de Medicina",
+      "sourceUrl": "https://veja.abril.com.br/politica/a-nova-vitoria-de-erika-hilton-em-defesa-de-criancas-intersexo/",
+      "tone": "violet",
+      "artMark": "INTERSEXO"
+    },
     {
       "id": "cbf-apoio-anuario-lgbtfobia-futebol-2026",
       "publishedAt": "2026-11-07T05:30:00-03:00",
@@ -4758,6 +4771,40 @@
           "paragraphs": [
             "Reportagem de Alicia Klein, publicada pelo UOL em 7 de novembro de 2026.",
             "Nota do Coletivo de Torcidas Canarinhos LGBTQ+ sobre a quinta edição do anuário, publicada em 24 de outubro de 2026."
+          ]
+        }
+      ]
+    },
+    "mpf-acao-resolucao-cfm-criancas-intersexo-2026": {
+      "readingTime": "2 min de leitura",
+      "body": [
+        "Em reportagem publicada em 9 de novembro, a VEJA abordou uma ação civil pública ajuizada pelo Ministério Público Federal (MPF) contra o Conselho Federal de Medicina (CFM) e a União. O MPF pede à Justiça Federal em Porto Alegre a suspensão do artigo 2º da Resolução CFM nº 2.455/2026, que trata da avaliação e do cuidado de pessoas com variações das características sexuais.",
+        "O MPF afirma que a resolução cria uma urgência clínica artificial ao tratar de investigação precoce e cuidado em tempo hábil para recém-nascidos. A ação pede a suspensão do trecho e também solicita que o Ministério da Saúde estabeleça diretrizes nacionais de atenção integral no SUS. A notícia sobre o ajuizamento foi publicada pelo próprio MPF em 3 de novembro.",
+        "O CFM, ao apresentar a resolução em maio, afirmou que o texto exige consentimento livre e esclarecido dos representantes legais e assentimento da criança sempre que possível. O conselho também declarou que cirurgias irreversíveis sem urgência só podem ocorrer após análise fundamentada e participação informada dos envolvidos.",
+        "A ação ainda não representa uma decisão judicial sobre o mérito. As críticas às diretrizes apresentadas nesta matéria são argumentos do MPF e da deputada Erika Hilton, conforme reportados pela VEJA; a descrição das salvaguardas é a posição oficial do CFM."
+      ],
+      "sections": [
+        {
+          "heading": "O que pede o MPF",
+          "bullets": [
+            "A ação civil pública é contra o CFM e a União e tramita na Justiça Federal em Porto Alegre.",
+            "O MPF pede a suspensão do artigo 2º da Resolução CFM nº 2.455/2026 e a criação de diretrizes nacionais de atenção integral no SUS.",
+            "Ajuizamento e argumentos são atribuídos ao MPF; até a publicação consultada, não havia decisão final sobre os pedidos."
+          ]
+        },
+        {
+          "heading": "Posição do CFM",
+          "paragraphs": [
+            "Na apresentação da resolução, o CFM disse que os representantes legais devem dar consentimento livre e esclarecido e que a criança deve assentir sempre que possível.",
+            "O conselho também declarou que procedimentos cirúrgicos irreversíveis sem urgência dependem de avaliação fundamentada e participação informada."
+          ]
+        },
+        {
+          "heading": "Fontes",
+          "paragraphs": [
+            "Reportagem de Marcelo Ribeiro, publicada pela VEJA em 9 de novembro de 2026.",
+            "O MPF publicou em 3 de novembro detalhes sobre a ação civil pública nº 5070180-36.2026.4.04.7100.",
+            "A posição do CFM foi consultada em comunicado oficial sobre a Resolução nº 2.455/2026."
           ]
         }
       ]
